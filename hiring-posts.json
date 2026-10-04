@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-04T20:52:54.964Z",
-  "lastRunAt": "2026-10-04T20:52:54.964Z",
+  "updatedAt": "2026-10-04T20:58:11.218Z",
+  "lastRunAt": "2026-10-04T20:58:11.218Z",
   "target": {
     "US": 3,
     "Dubai": 2
   },
-  "recencyDays": 14,
-  "summary": "Search completed 4 October 2026 (Dubai): 0 verified recent opportunities. Target: 3 US + 2 Dubai. Results found were older posts, unrelated hiring or service promotions; none met all criteria. New qualifying posts will appear after future scouting runs.",
+  "recencyDays": 20,
+  "summary": "Search completed 5 October 2026 (Dubai), covering the past 20 days: 0 verified opportunities (US 0/3; Dubai 0/2). Searches included hiring, freelance support and specialist recommendation requests. Results were older, unrelated, outside the target geography or lacked verifiable post dates. Future runs use the expanded 20-day window.",
   "prospects": []
 }
