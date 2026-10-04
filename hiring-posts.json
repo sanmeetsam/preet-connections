@@ -1,12 +1,40 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-04T20:58:11.218Z",
+  "updatedAt": "2026-10-04T21:03:17.246Z",
   "lastRunAt": "2026-10-04T20:58:11.218Z",
   "target": {
     "US": 3,
     "Dubai": 2
   },
   "recencyDays": 20,
-  "summary": "Search completed 5 October 2026 (Dubai), covering the past 20 days: 0 verified opportunities (US 0/3; Dubai 0/2). Searches included hiring, freelance support and specialist recommendation requests. Results were older, unrelated, outside the target geography or lacked verifiable post dates. Future runs use the expanded 20-day window.",
-  "prospects": []
+  "summary": "Added 1 US agency opportunity on 5 October 2026 (Dubai): The Ad Girls part-time Meta ads role. Last retrieved listing displayed Apply and '1 week ago'; fresh canonical-page fetch was unavailable, so current availability needs confirmation. Current batch: US 1/3, Dubai 0/2. Agencies serving coaches/course creators now qualify alongside direct businesses.",
+  "prospects": [
+    {
+      "id": "job-4457975763",
+      "platform": "Hiring posts",
+      "sourceType": "LinkedIn job",
+      "name": "The Ad Girls",
+      "company": "The Ad Girls",
+      "title": "Meta Ads Media Buyer & Ad Strategist for Coaches & Courses",
+      "employmentType": "Part-time employment",
+      "linkedin": "",
+      "postUrl": "https://www.linkedin.com/jobs/view/4457975763/",
+      "source": "https://www.linkedin.com/jobs/view/4457975763/",
+      "region": "US",
+      "location": "United States · remote / flexible (international eligibility needs confirmation)",
+      "niche": "Meta ads · coaching/course agency",
+      "offer": "Part-time media buyer and client account strategist supporting high-ticket coaches and course creators.",
+      "reason": "Agency opportunity explicitly approved for inclusion. Relevant to Preet's launch, Meta ads and funnel experience: the listing covers webinar/live-launch funnels, campaign optimisation and strategic messaging. Requires 3+ years of Facebook/Instagram advertising; confirm Preet meets that requirement. US-labelled remote employment; confirm hiring from Dubai and working hours. Freelance/agency subcontracting acceptance is not stated.",
+      "evidence": "Agency seeks a part-time account manager/media buyer to run Facebook and Instagram campaigns and advise coaching/course clients on messaging and funnel performance.",
+      "postedAt": null,
+      "postedText": "LinkedIn displayed '1 week ago' when checked 5 October 2026 (Dubai). Relative age retained; exact publication date unavailable.",
+      "checkedAt": "2026-10-04T21:03:17.246Z",
+      "availability": "Not confirmed",
+      "scoutedAt": "2026-10-05",
+      "message": "Hi Ad Girls team, I saw your part-time Meta Ads Media Buyer & Ad Strategist role for coaches and course creators. I'm Preet, a launch and ads specialist with experience supporting programme and digital-course launches, funnels, copywriting and US coach virtual-event campaigns. The combination of Meta campaign execution and funnel strategy is closely aligned with my work. I'm based in Dubai; would you consider a Dubai-based specialist, and is the role open to a contract arrangement? I'd be happy to share relevant portfolio examples.",
+      "status": "To review",
+      "notes": "",
+      "followUp": ""
+    }
+  ]
 }
