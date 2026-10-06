@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-05T09:07:41.114Z",
-  "lastRunAt": "2026-10-05T09:07:41.114Z",
+  "updatedAt": "2026-10-06T09:17:12.836Z",
+  "lastRunAt": "2026-10-06T09:17:12.836Z",
   "target": {
     "US": 3,
     "Dubai": 2
   },
   "recencyDays": 20,
-  "summary": "5 October 2026 (Dubai): added 0 new LinkedIn posts and 0 new LinkedIn jobs. Searched the 15 September–5 October 2026 publication window across hiring, looking-for, seeking/referral requests and relevant ads, launch, funnel, email, copywriting, webinar and automation roles. No additional result could be verified against all requirements: actual recent publication, relevant coach/course-creator business or agency client category, US/Dubai geography, explicit professional demand and non-closed availability. Excluded stale, geographically mismatched, irrelevant and unverifiably dated results; the existing Ad Girls listing was already saved and was not counted again. New batch: US 0/3 (shortfall 3), Dubai 0/2 (shortfall 2). All prior records preserved.",
+  "summary": "6 October 2026 (Dubai): added 1 new LinkedIn job and 0 new service-request posts. Checked the 16 September–6 October publication window across hiring, looking-for, seeking, referral/recommendation requests and ads, launch, funnel, email, messaging, webinar and automation roles. Royal Change's original listing displayed 11 hours ago and an active Apply button. It is a full-time employment vacancy; freelance compatibility and international eligibility are unknown. New batch: US 1/3 (shortfall 2); Dubai 0/2 (shortfall 2). Excluded stale/closed requests (including Hello Seven, Formation and Coaches.com), irrelevant client categories, wrong geography and results lacking verified publication evidence. Existing Ad Girls record preserved and not counted again.",
   "prospects": [
     {
       "id": "job-4457975763",
@@ -32,6 +32,37 @@
       "availability": "Not confirmed",
       "scoutedAt": "2026-10-05",
       "message": "Hi Ad Girls team, I saw your part-time Meta Ads Media Buyer & Ad Strategist role for coaches and course creators. I'm Preet, a launch and ads specialist with experience supporting programme and digital-course launches, funnels, copywriting and US coach virtual-event campaigns. The combination of Meta campaign execution and funnel strategy is closely aligned with my work. I'm based in Dubai; would you consider a Dubai-based specialist, and is the role open to a contract arrangement? I'd be happy to share relevant portfolio examples.",
+      "status": "To review",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "job-4474638115",
+      "platform": "Hiring posts",
+      "sourceType": "LinkedIn job",
+      "name": "Royal Change",
+      "company": "Royal Change",
+      "title": "Head of Growth & Marketing",
+      "employmentType": "Full-time",
+      "linkedin": "",
+      "postUrl": "https://www.linkedin.com/jobs/view/4474638115/",
+      "source": "https://www.linkedin.com/jobs/view/4474638115/",
+      "region": "US",
+      "location": "United States; Charlotte, North Carolina preferred; exceptional remote candidates considered",
+      "niche": "Growth strategy / paid ads / funnels / email lifecycle",
+      "offer": "Full-time Head of Growth & Marketing vacancy covering membership acquisition, paid ads, conversion funnels and email lifecycle.",
+      "reason": "Direct coaching business, not agency: official Royal Change pages verify female co-founder Sydney Cummings Houdyshell and paid Sydney Squad. Preet's course launches and US coach campaigns fit funnel/email work. This is employment, not proof of freelance acceptance. Requires subscription/DTC growth, Shopify, YouTube and lifecycle expertise not established by her supplied portfolio. International eligibility and freelance support are unknown. Related Instagram prospect Sydney is flagged; avoid duplicate enquiries.",
+      "evidence": "Original listing explicitly seeks a growth/marketing leader for membership acquisition, paid advertising, launches and retention.",
+      "postedAt": null,
+      "postedText": "Original listing displayed '11 hours ago' when checked on 6 October 2026; relative age, not crawl date. Exact calendar publication date not supplied.",
+      "checkedAt": "2026-10-06T09:14:46.685Z",
+      "availability": "Open confirmed",
+      "scoutedAt": "2026-10-06",
+      "message": "Hello Royal Change team, I came across your Head of Growth & Marketing opening and its focus on Sydney Squad acquisition and retention. I'm Preet, a launch and ads specialist with 2026 digital-course launches and US coach VSL/virtual-event campaign experience. I understand this is a full-time role. Do you also consider project support for launch funnels, Meta ads or email campaigns? Happy to share relevant work if useful; no assumption that freelance support is available.",
+      "evidenceSources": [
+        "https://royalchange.fit/about",
+        "https://royalchange.fit/"
+      ],
       "status": "To review",
       "notes": "",
       "followUp": ""
