@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-05T22:09:28.669Z",
-  "lastRunAt": "2026-10-05T22:09:28.670Z",
+  "updatedAt": "2026-10-06T09:17:14.248Z",
+  "lastRunAt": "2026-10-06T09:17:14.248Z",
   "target": {
     "total": 5,
     "regions": [
@@ -9,7 +9,7 @@
       "US"
     ]
   },
-  "summary": "First Skool batch: 5 verified relevant creators, 1 Dubai and 4 US. No fixed regional quota for Skool.",
+  "summary": "6 October 2026 (Dubai): added 5 new verified creators, all US; no fixed regional split. Original creator/community pages establish ownership or leadership, with paid membership or a separately verified paid offer. Dedicated business, marketing, AI and content coach searches completed, alongside existing target niches. Alicia Lyttle's overlap with today's LinkedIn batch is flagged. Free Kim Garst community qualifies through her separately verified paid AI Advantage Masterclass. Shortfall: 0. All previous records preserved.",
   "prospects": [
     {
       "id": "skool-tina-ghazi-8171",
@@ -132,6 +132,136 @@
       "followUp": "",
       "contactNote": "Skool messaging may require membership or permission. Check access before contacting; joining a paid community is not required by this dashboard.",
       "message": "Hey Tasha! Hope you’re doing well. I came across your Power of HLS community, especially the focus on supporting women through midlife with group coaching, accountability and on-demand learning.\n\nI wanted to reach out to see whether you’re looking to reach more of the right people through Meta ads, virtual events or an email funnel that introduces them to your programmes and community.\n\nI work with coaches and course creators on launch strategy, messaging, ads, funnels, virtual events, emails, copywriting, tech and automations. My work includes women-focused programme launches and US coach virtual-event campaigns, so this felt like a relevant space to connect in.\n\nWould support with any of that be useful right now? Do let me know, I’d love to hear what you’re focusing on :)"
+    },
+    {
+      "id": "skool-amy-landino-3133",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@amy-landino-3133",
+      "community": "https://www.skool.com/therolemodel",
+      "name": "Amy Landino",
+      "region": "US",
+      "location": "Connecticut, US",
+      "niche": "Business / personal branding / content coaching",
+      "source": "https://www.skool.com/therolemodel/about",
+      "offer": "Paid $47/month personal-brand education community with weekly live Q&A and masterclasses.",
+      "reason": "Verified creator relationship on the original community's By link and profile's Owned section. Geography corroborated by public profile. Paid education fits webinar acquisition, launch messaging, email nurturing and member onboarding. Preet can support marketing execution without claiming AI-teaching credentials.",
+      "evidenceSources": [
+        "https://www.skool.com/@amy-landino-3133",
+        "https://www.skool.com/therolemodel/about",
+        "https://www.skool.com/@amy-landino-3133"
+      ],
+      "checkedAt": "2026-10-06T09:14:46.685Z",
+      "scoutedAt": "2026-10-06",
+      "message": "Hey Amy, hope you're doing well. I came across The ROLE Model's personal-brand system and weekly live Q&A. I'm Preet, a launch and ads specialist for coaches and course creators. My 2026 portfolio includes digital-course launches and US coach VSL and virtual-event campaigns. Would support with Meta ads, a webinar funnel or email nurturing be useful for your paid programme? Happy to share a relevant portfolio example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Public creator account; not identified as a team account. No membership was joined. Direct-message availability without membership/login is not verified; use a publicly available business enquiry channel if Skool messaging is restricted."
+    },
+    {
+      "id": "skool-eraina-tinnin-9812",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@eraina-tinnin-9812",
+      "community": "https://www.skool.com/sherises",
+      "name": "Eraina Tinnin",
+      "region": "US",
+      "location": "Greensboro/Winston-Salem, North Carolina, US",
+      "niche": "Practical AI / digital-product / business coaching",
+      "source": "https://www.skool.com/sherises/about",
+      "offer": "Paid $20/month faith-based education community helping women 40+ use AI, create digital products and build online businesses.",
+      "reason": "Verified creator relationship on the original community's By link and profile's Owned section. Geography corroborated by public profile. Paid education fits webinar acquisition, launch messaging, email nurturing and member onboarding. Preet can support marketing execution without claiming AI-teaching credentials.",
+      "evidenceSources": [
+        "https://www.skool.com/@eraina-tinnin-9812",
+        "https://www.skool.com/sherises/about",
+        "https://www.linkedin.com/in/erainatinnin"
+      ],
+      "checkedAt": "2026-10-06T09:14:46.685Z",
+      "scoutedAt": "2026-10-06",
+      "message": "Hey Eraina, hope you're doing well. I came across She Rises Digital Academy's practical AI and digital-product support for women over 40. I'm Preet, a launch and ads specialist for coaches and course creators. My 2026 portfolio includes digital-course launches and US coach VSL and virtual-event campaigns. Would support with Meta ads, a webinar funnel or email nurturing be useful for your paid programme? Happy to share a relevant portfolio example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Public creator account; not identified as a team account. No membership was joined. Direct-message availability without membership/login is not verified; use a publicly available business enquiry channel if Skool messaging is restricted."
+    },
+    {
+      "id": "skool-shauntel-peak-jimenez-1941",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@shauntel-peak-jimenez-1941",
+      "community": "https://www.skool.com/futureher-ai-3484",
+      "name": "Shauntel Peak-Jimenez",
+      "region": "US",
+      "location": "Fishers, Indiana, US",
+      "niche": "Practical AI / business / productivity coaching",
+      "source": "https://www.skool.com/futureher-ai-3484/about",
+      "offer": "Paid practical AI business-growth community for women entrepreneurs 40+; current public launch price is $17/month (regular $47).",
+      "reason": "Verified creator relationship on the original community's By link. Geography corroborated by public profile. Paid education fits webinar acquisition, launch messaging, email nurturing and member onboarding. Preet can support marketing execution without claiming AI-teaching credentials.",
+      "evidenceSources": [
+        "https://www.skool.com/@shauntel-peak-jimenez-1941",
+        "https://www.skool.com/futureher-ai-3484/about",
+        "https://www.linkedin.com/in/shauntel-peak-jimenez-ph-d-1853233a1"
+      ],
+      "checkedAt": "2026-10-06T09:14:46.685Z",
+      "scoutedAt": "2026-10-06",
+      "message": "Hey Shauntel, hope you're doing well. I came across FutureHER AI's focus on helping women entrepreneurs over 40 use practical AI tools. I'm Preet, a launch and ads specialist for coaches and course creators. My 2026 portfolio includes digital-course launches and US coach VSL and virtual-event campaigns. Would support with Meta ads, a webinar funnel or email nurturing be useful for your paid programme? Happy to share a relevant portfolio example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Public creator account; not identified as a team account. No membership was joined. Direct-message availability without membership/login is not verified; use a publicly available business enquiry channel if Skool messaging is restricted."
+    },
+    {
+      "id": "skool-kimgarst",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@kimgarst",
+      "community": "https://www.skool.com/authoritycreators",
+      "name": "Kim Garst",
+      "region": "US",
+      "location": "Tampa, Florida, US",
+      "niche": "AI marketing / content / business education",
+      "source": "https://www.skool.com/authoritycreators/about",
+      "offer": "Free owned Skool community plus separately verified paid AI Advantage Masterclass ($37) on her official website.",
+      "reason": "Verified creator relationship on the original community's By link and profile's Owned section. Geography corroborated by public influencer directory and official historical Tampa activity. Paid education fits webinar acquisition, launch messaging, email nurturing and member onboarding. Preet can support marketing execution without claiming AI-teaching credentials.",
+      "evidenceSources": [
+        "https://www.skool.com/@kimgarst",
+        "https://www.skool.com/authoritycreators/about",
+        "https://www.agilitypr.com/resources/top-influencers/top-10-u-s-social-media-experts/",
+        "https://kimgarst.com/",
+        "https://go.authoritycreator.online/ai-advantage-masterclass-optin-ot",
+        "https://kimgarst.com/how-to-take-your-business-to-the-next-level/"
+      ],
+      "checkedAt": "2026-10-06T09:14:46.685Z",
+      "scoutedAt": "2026-10-06",
+      "message": "Hey Kim, hope you're doing well. I came across your AI marketing education for creators and entrepreneurs. I'm Preet, a launch and ads specialist for coaches and course creators. My 2026 portfolio includes digital-course launches and US coach VSL and virtual-event campaigns. Would support with Meta ads, a webinar funnel or email nurturing be useful for your paid programme? Happy to share a relevant portfolio example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Public creator account; not identified as a team account. No membership was joined. Direct-message availability without membership/login is not verified; use a publicly available business enquiry channel if Skool messaging is restricted."
+    },
+    {
+      "id": "skool-alicia-lyttle-3995",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@alicia-lyttle-3995",
+      "community": "https://www.skool.com/aiexpertsclub",
+      "name": "Alicia Lyttle",
+      "region": "US",
+      "location": "Atlanta, Georgia, US",
+      "niche": "Practical AI / business productivity education",
+      "source": "https://www.skool.com/aiexpertsclub/about",
+      "offer": "Owned AI Experts Club paid Skool membership ($47/month), with live and on-demand AI training.",
+      "reason": "Verified creator relationship on the original community's By link and profile's Owned section. Geography corroborated by public profile. Paid education fits webinar acquisition, launch messaging, email nurturing and member onboarding. Preet can support marketing execution without claiming AI-teaching credentials. Cross-platform overlap: also added to LinkedIn today; coordinate outreach and choose one channel.",
+      "evidenceSources": [
+        "https://www.skool.com/@alicia-lyttle-3995",
+        "https://www.skool.com/aiexpertsclub/about",
+        "https://www.linkedin.com/in/alicialyttle",
+        "https://alicialyttle.com/training/",
+        "https://aiexpertsclub.com/"
+      ],
+      "checkedAt": "2026-10-06T09:14:46.685Z",
+      "scoutedAt": "2026-10-06",
+      "message": "Hey Alicia, hope you're doing well. I came across AI Experts Club's beginner-friendly live and on-demand training. I'm Preet, a launch and ads specialist for coaches and course creators. My 2026 portfolio includes digital-course launches and US coach VSL and virtual-event campaigns. Would support with Meta ads, a webinar funnel or email nurturing be useful for your paid programme? Happy to share a relevant portfolio example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Public creator account; not identified as a team account. No membership was joined. Direct-message availability without membership/login is not verified; use a publicly available business enquiry channel if Skool messaging is restricted."
     }
   ]
 }
