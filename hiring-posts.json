@@ -1,13 +1,14 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-06T09:17:12.836Z",
-  "lastRunAt": "2026-10-06T09:17:12.836Z",
+  "updatedAt": "2026-10-07T09:07:00.000Z",
+  "lastRunAt": "2026-10-07T09:07:00.000Z",
   "target": {
+    "total": 5,
     "US": 3,
     "Dubai": 2
   },
   "recencyDays": 20,
-  "summary": "6 October 2026 (Dubai): added 1 new LinkedIn job and 0 new service-request posts. Checked the 16 September–6 October publication window across hiring, looking-for, seeking, referral/recommendation requests and ads, launch, funnel, email, messaging, webinar and automation roles. Royal Change's original listing displayed 11 hours ago and an active Apply button. It is a full-time employment vacancy; freelance compatibility and international eligibility are unknown. New batch: US 1/3 (shortfall 2); Dubai 0/2 (shortfall 2). Excluded stale/closed requests (including Hello Seven, Formation and Coaches.com), irrelevant client categories, wrong geography and results lacking verified publication evidence. Existing Ad Girls record preserved and not counted again.",
+  "summary": "2026-10-07: 0 new qualifying opportunities added (0 LinkedIn posts, 0 LinkedIn jobs). Regional shortfall: US 3, Dubai 2. Searches covered explicit hiring, seeking and referral language plus LinkedIn Jobs for Meta ads, funnels, launches, email/copy, webinars, messaging and automation. Results within the 20-day window either lacked a verified coaching/course-creator client category, were unrelated corporate/AI-SaaS roles, or were stale/closed; none met all demand, geography, category, date and availability requirements.",
   "prospects": [
     {
       "id": "job-4457975763",
