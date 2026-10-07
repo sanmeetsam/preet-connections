@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-06T09:17:14.248Z",
-  "lastRunAt": "2026-10-06T09:17:14.248Z",
+  "updatedAt": "2026-10-07T09:06:00.000Z",
+  "lastRunAt": "2026-10-07T09:06:00.000Z",
   "target": {
     "total": 5,
     "regions": [
@@ -9,7 +9,7 @@
       "US"
     ]
   },
-  "summary": "6 October 2026 (Dubai): added 5 new verified creators, all US; no fixed regional split. Original creator/community pages establish ownership or leadership, with paid membership or a separately verified paid offer. Dedicated business, marketing, AI and content coach searches completed, alongside existing target niches. Alicia Lyttle's overlap with today's LinkedIn batch is flagged. Free Kim Garst community qualifies through her separately verified paid AI Advantage Masterclass. Shortfall: 0. All previous records preserved.",
+  "summary": "2026-10-07: added 1 verified US creator. Verified shortfall: 4 of the 5 requested profiles were not added because public evidence did not establish all of community ownership, geography and a paid offer; free-community membership alone was excluded.",
   "prospects": [
     {
       "id": "skool-tina-ghazi-8171",
@@ -262,6 +262,30 @@
       "notes": "",
       "followUp": "",
       "contactNote": "Public creator account; not identified as a team account. No membership was joined. Direct-message availability without membership/login is not verified; use a publicly available business enquiry channel if Skool messaging is restricted."
+    },
+    {
+      "id": "skool-britteny-floyd-mayo-3814",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@britteny-floyd-mayo-3814",
+      "community": "https://www.skool.com/bankable-babes",
+      "name": "Britteny Floyd-Mayo",
+      "region": "US",
+      "location": "Los Angeles, California, US",
+      "niche": "Business coaching / creator monetisation",
+      "source": "https://www.skool.com/bankable-babes",
+      "offer": "Bankable Babes · paid Skool community ($97/month shown publicly)",
+      "reason": "Her public Skool creator profile identifies Los Angeles and explicitly lists Bankable Babes as an owned paid community. It is a fit for membership acquisition, onboarding email and event-led campaigns. No overlap with today's LinkedIn or Instagram batches.",
+      "evidenceSources": [
+        "https://www.skool.com/@britteny-floyd-mayo-3814",
+        "https://www.skool.com/bankable-babes"
+      ],
+      "checkedAt": "2026-10-07T09:06:00.000Z",
+      "scoutedAt": "2026-10-07",
+      "message": "Hi Britteny, I came across Bankable Babes and liked the focus on helping women turn their expertise and audience into a stronger business. I’m Preet, a launch and ads specialist for coaches and course creators, with digital-course and US coach virtual-event campaign experience. If support with Meta ads, a virtual event, funnels or email would be useful for membership growth, I’d be happy to share a relevant example—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Public creator profile appears to be a personal account and identifies community ownership. Skool messaging may require an account or shared community access; no join or message was attempted."
     }
   ]
 }
