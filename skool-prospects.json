@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-07T09:06:00.000Z",
-  "lastRunAt": "2026-10-07T09:06:00.000Z",
+  "updatedAt": "2026-10-08T09:08:12.259Z",
+  "lastRunAt": "2026-10-08T09:08:12.259Z",
   "target": {
     "total": 5,
     "regions": [
@@ -9,7 +9,7 @@
       "US"
     ]
   },
-  "summary": "2026-10-07: added 1 verified US creator. Verified shortfall: 4 of the 5 requested profiles were not added because public evidence did not establish all of community ownership, geography and a paid offer; free-community membership alone was excluded.",
+  "summary": "2026-10-08: added 4 verified female Skool creators (US 3, Dubai 1). Shortfall: 1 of 5. Dedicated business, marketing, AI and content searches completed alongside existing niches. Additional results were membership-only accounts, outside US/Dubai, or free communities without verified paid offers; these were excluded. Kristine Alise's owned Florida community advertises a Premium layer, but explicit paid pricing/checkout could not be verified. Mariah's current public Skool intake is marked closed; paid programme and official separate offer are recorded without claiming open enrolment. Cross-platform overlaps flagged. No communities joined, payments made or messages sent.",
   "prospects": [
     {
       "id": "skool-tina-ghazi-8171",
@@ -286,6 +286,107 @@
       "notes": "",
       "followUp": "",
       "contactNote": "Public creator profile appears to be a personal account and identifies community ownership. Skool messaging may require an account or shared community access; no join or message was attempted."
+    },
+    {
+      "id": "skool-mariahcoz",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@mariahcoz",
+      "community": "https://www.skool.com/mariah",
+      "name": "Mariah Coz",
+      "region": "US",
+      "location": "Greater Boston, Massachusetts, US",
+      "niche": "Business / content / course-creator education",
+      "source": "https://www.skool.com/mariah/about",
+      "offer": "Profit Architecture displays a $39/month paid community with premium courses, templates and Q&A audio. Public Skool enrolment is marked CLOSED; the official website separately lists a $399/month programme. Confirm route and availability.",
+      "reason": "Verified female educator and community owner. Educational events, membership acquisition funnels, email nurturing and onboarding are potential fits for Preet's documented launch and ads work; no hiring demand is implied. Cross-platform overlap: also added to LinkedIn and Instagram today; coordinate one outreach. Paid offer verified, but do not assume current Skool intake.",
+      "evidenceSources": [
+        "https://www.skool.com/@mariahcoz",
+        "https://www.skool.com/mariah/about",
+        "https://mariahcoz.com/profit/",
+        "https://www.linkedin.com/in/mariah-coz"
+      ],
+      "checkedAt": "2026-10-08T09:08:12.259Z",
+      "scoutedAt": "2026-10-08",
+      "message": "Hey Mariah, hope you're doing well. I came across evergreen offer education and your Virtual Event Blueprint curriculum. I'm Preet, a launch and ads specialist for coaches and course creators. My 2026 portfolio includes digital-course launches and US coach VSL/virtual-event campaigns. Would support with Meta ads, virtual events, funnels or email be useful for your education offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Public personal creator account; no team account indicated. Direct messaging availability without login or shared membership is unverified. No community was joined, paid for or contacted."
+    },
+    {
+      "id": "skool-audriarichmond",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@audriarichmond",
+      "community": "https://www.skool.com/uncloned-8397",
+      "name": "Audria Richmond",
+      "region": "US",
+      "location": "Atlanta, Georgia, US",
+      "niche": "Marketing / brand / business education",
+      "source": "https://www.skool.com/uncloned-8397/about",
+      "offer": "Free owned UnCloned community plus separately verified paid Opportunity Hour and Talking Cash mini-courses ($100 each) on her official shop.",
+      "reason": "Verified female educator and community owner. Educational events, membership acquisition funnels, email nurturing and onboarding are potential fits for Preet's documented launch and ads work; no hiring demand is implied. Cross-platform overlap: Instagram addition today; choose one channel. Her paid education is the relevant fit, distinct from competing done-for-you brand services.",
+      "evidenceSources": [
+        "https://www.skool.com/@audriarichmond",
+        "https://www.skool.com/uncloned-8397/about",
+        "https://www.audriarichmond.shop/"
+      ],
+      "checkedAt": "2026-10-08T09:08:12.259Z",
+      "scoutedAt": "2026-10-08",
+      "message": "Hey Audria, hope you're doing well. I came across your UnCloned community and paid marketing mini-courses. I'm Preet, a launch and ads specialist for coaches and course creators. My 2026 portfolio includes digital-course launches and US coach VSL/virtual-event campaigns. Would support with Meta ads, virtual events, funnels or email be useful for your education offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Public personal creator account; no team account indicated. Direct messaging availability without login or shared membership is unverified. No community was joined, paid for or contacted."
+    },
+    {
+      "id": "skool-marcela-frota-variani-3660",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@marcela-frota-variani-3660",
+      "community": "https://www.skool.com/in-love-with-yourself-1309",
+      "name": "Marcela Variani",
+      "region": "Dubai",
+      "location": "Dubai, UAE",
+      "niche": "Relationships / communication / personal development",
+      "source": "https://www.skool.com/in-love-with-yourself-1309/about",
+      "offer": "In Love With Marcela: $33/month membership with online courses, workbooks and live Zoom coaching/Q&A.",
+      "reason": "Verified female educator and community owner. Educational events, membership acquisition funnels, email nurturing and onboarding are potential fits for Preet's documented launch and ads work; no hiring demand is implied. Public creator profile explicitly identifies Dubai and ownership; original community links her as creator. No overlap with today's LinkedIn/Instagram additions.",
+      "evidenceSources": [
+        "https://www.skool.com/@marcela-frota-variani-3660",
+        "https://www.skool.com/in-love-with-yourself-1309/about",
+        "https://www.skool.com/in-love-with-yourself-1309/about"
+      ],
+      "checkedAt": "2026-10-08T09:08:12.259Z",
+      "scoutedAt": "2026-10-08",
+      "message": "Hey Marcela, hope you're doing well. I came across In Love With Marcela's combination of relationship courses and live coaching. I'm Preet, a launch and ads specialist for coaches and course creators. My 2026 portfolio includes women-focused programme and digital-course launches. Would support with Meta ads, virtual events, funnels or email be useful for your education offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Public personal creator account; no team account indicated. Direct messaging availability without login or shared membership is unverified. No community was joined, paid for or contacted."
+    },
+    {
+      "id": "skool-cyndee-haydon-6146",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@cyndee-haydon-6146",
+      "community": "https://www.skool.com/ai-thats-easy-implementer-club",
+      "name": "Cyndee Haydon",
+      "region": "US",
+      "location": "Tampa Bay, Florida, US",
+      "niche": "Practical AI / content / professional productivity education",
+      "source": "https://www.skool.com/ai-thats-easy-implementer-club/about",
+      "offer": "AI Thats Easy Implementer Club: $127/month paid practical AI learning and implementation community for real estate professionals.",
+      "reason": "Verified female educator and community owner. Educational events, membership acquisition funnels, email nurturing and onboarding are potential fits for Preet's documented launch and ads work; no hiring demand is implied. Original profile explicitly lists community ownership and Florida. Cross-platform overlap: LinkedIn and Instagram today; coordinate one outreach.",
+      "evidenceSources": [
+        "https://www.skool.com/@cyndee-haydon-6146",
+        "https://www.skool.com/ai-thats-easy-implementer-club/about",
+        "https://www.skool.com/ai-thats-easy-implementer-club/about"
+      ],
+      "checkedAt": "2026-10-08T09:08:12.259Z",
+      "scoutedAt": "2026-10-08",
+      "message": "Hey Cyndee, hope you're doing well. I came across your practical AI implementation education and weekly support for agents. I'm Preet, a launch and ads specialist for coaches and course creators. My 2026 portfolio includes digital-course launches and US coach VSL/virtual-event campaigns. Would support with Meta ads, virtual events, funnels or email be useful for your education offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Public personal creator account; no team account indicated. Direct messaging availability without login or shared membership is unverified. No community was joined, paid for or contacted."
     }
   ]
 }
