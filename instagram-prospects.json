@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T09:08:12.259Z",
+  "updatedAt": "2026-10-09T09:06:07.284Z",
   "prospects": [
     {
       "id": "ig-parentprospercoaching",
@@ -996,8 +996,238 @@
       "status": "To contact",
       "notes": "",
       "followUp": ""
+    },
+    {
+      "id": "ig-coachlakshmisreenivasan",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/coachlakshmisreenivasan/",
+      "handle": "@coachlakshmisreenivasan",
+      "name": "Lakshmi Sreenivasan",
+      "region": "Dubai",
+      "location": "Dubai, UAE",
+      "niche": "Women leadership / career coaching",
+      "source": "https://lakshmisreenivasan.com/90-day-leadership-coaching-programme/",
+      "offer": "Structured 90-day leadership coaching programme for mid-career women.",
+      "reason": "Her Instagram bio identifies Dubai and her official page verifies the 90-day offer. Cross-platform overlap: LinkedIn today; use one channel.",
+      "evidenceSources": [
+        "https://www.instagram.com/coachlakshmisreenivasan/",
+        "https://lakshmisreenivasan.com/90-day-leadership-coaching-programme/"
+      ],
+      "checkedAt": "2026-10-09T09:06:07.284Z",
+      "scoutedAt": "2026-10-09",
+      "message": "Hey Lakshmi, hope you're doing well. I came across Structured 90-day leadership coaching programme for mid-career women. and its focus on women leadership / career coaching. I'm Preet, a launch and ads specialist for coaches and course creators, with 2026 programme, digital-course and US coach virtual-event campaign experience. Would support with Meta ads, a virtual event, funnels or email be useful for this offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "ig-thirdculturecoach",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/thirdculturecoach/",
+      "handle": "@thirdculturecoach",
+      "name": "Sandra Redmayne-Mourad",
+      "region": "Dubai",
+      "location": "Dubai, UAE",
+      "niche": "Mindset / women’s development",
+      "source": "https://mpower.ki-global.com/",
+      "offer": "MPower: paid three-day women’s reset programme in Dubai with current dates and AED pricing.",
+      "reason": "Her public profile identifies her coaching role and MPower content; the official programme page verifies the paid cohort. Cross-platform overlap: LinkedIn today.",
+      "evidenceSources": [
+        "https://www.instagram.com/thirdculturecoach/",
+        "https://mpower.ki-global.com/"
+      ],
+      "checkedAt": "2026-10-09T09:06:07.284Z",
+      "scoutedAt": "2026-10-09",
+      "message": "Hey Sandra, hope you're doing well. I came across MPower and its focus on mindset / women’s development. I'm Preet, a launch and ads specialist for coaches and course creators, with 2026 programme, digital-course and US coach virtual-event campaign experience. Would support with Meta ads, a virtual event, funnels or email be useful for this offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "ig-youraicafe",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/youraicafe/",
+      "handle": "@youraicafe",
+      "name": "Nidhi Sethi",
+      "region": "Dubai",
+      "location": "Dubai, UAE",
+      "niche": "Practical AI / business coaching",
+      "source": "https://youraicafe.com/",
+      "offer": "SheBuilds: structured 12-week live AI programme for women solopreneurs.",
+      "reason": "A practical AI education offer suited to launch messaging and funnels; no AI expertise is claimed for Preet. Cross-platform overlap: LinkedIn today.",
+      "evidenceSources": [
+        "https://www.instagram.com/youraicafe/",
+        "https://youraicafe.com/"
+      ],
+      "checkedAt": "2026-10-09T09:06:07.284Z",
+      "scoutedAt": "2026-10-09",
+      "message": "Hey Nidhi, hope you're doing well. I came across SheBuilds and its focus on practical ai / business coaching. I'm Preet, a launch and ads specialist for coaches and course creators, with 2026 programme, digital-course and US coach virtual-event campaign experience. Would support with Meta ads, a virtual event, funnels or email be useful for this offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "ig-laurie__drummond",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/laurie__drummond/",
+      "handle": "@laurie__drummond",
+      "name": "Laurie Drummond",
+      "region": "Dubai",
+      "location": "Dubai, UAE",
+      "niche": "Business coaching / women entrepreneurs",
+      "source": "https://go.laurie-drummond.com/join-fivex-616110",
+      "offer": "FIVE X: structured 12-week business programme for women with a paid continuity option.",
+      "reason": "Her public positioning and Dubai base align with the official cohort offer. Cross-platform overlap: LinkedIn today.",
+      "evidenceSources": [
+        "https://www.instagram.com/laurie__drummond/",
+        "https://go.laurie-drummond.com/join-fivex-616110"
+      ],
+      "checkedAt": "2026-10-09T09:06:07.284Z",
+      "scoutedAt": "2026-10-09",
+      "message": "Hey Laurie, hope you're doing well. I came across FIVE X and its focus on business coaching / women entrepreneurs. I'm Preet, a launch and ads specialist for coaches and course creators, with 2026 programme, digital-course and US coach virtual-event campaign experience. Would support with Meta ads, a virtual event, funnels or email be useful for this offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "ig-triciathebizcoach",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/triciathebizcoach/",
+      "handle": "@triciathebizcoach",
+      "name": "Tricia Evans",
+      "region": "Dubai",
+      "location": "Dubai, UAE",
+      "niche": "Business / executive coaching",
+      "source": "https://www.advantagecoach.com/",
+      "offer": "Structured business and executive coaching through Advantage Coach.",
+      "reason": "Public sources identify Tricia as a Dubai business coach and Advantage Coach founder; support could focus on event funnels and email for structured coaching.",
+      "evidenceSources": [
+        "https://www.instagram.com/triciathebizcoach/",
+        "https://www.advantagecoach.com/"
+      ],
+      "checkedAt": "2026-10-09T09:06:07.284Z",
+      "scoutedAt": "2026-10-09",
+      "message": "Hey Tricia, hope you're doing well. I came across Structured business and executive coaching through Advantage Coach. and its focus on business / executive coaching. I'm Preet, a launch and ads specialist for coaches and course creators, with 2026 programme, digital-course and US coach virtual-event campaign experience. Would support with Meta ads, a virtual event, funnels or email be useful for this offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "ig-brittni.schroeder",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/brittni.schroeder/",
+      "handle": "@brittni.schroeder",
+      "name": "Brittni Schroeder",
+      "region": "US",
+      "location": "Lehi, Utah, US",
+      "niche": "Business / marketing coaching",
+      "source": "https://brittnischroeder.com/private-coaching/",
+      "offer": "Three-month private business coaching; official site also lists The Meeting Place membership.",
+      "reason": "The exact handle is linked from Brittni’s site/profile. Cross-platform overlap: LinkedIn today; use one channel.",
+      "evidenceSources": [
+        "https://www.instagram.com/brittni.schroeder/",
+        "https://brittnischroeder.com/private-coaching/"
+      ],
+      "checkedAt": "2026-10-09T09:06:07.284Z",
+      "scoutedAt": "2026-10-09",
+      "message": "Hey Brittni, hope you're doing well. I came across Three-month private business coaching; official site also lists The Meeting Place membership. and its focus on business / marketing coaching. I'm Preet, a launch and ads specialist for coaches and course creators, with 2026 programme, digital-course and US coach virtual-event campaign experience. Would support with Meta ads, a virtual event, funnels or email be useful for this offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "ig-coachcherylthacker",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/coachcherylthacker/",
+      "handle": "@coachcherylthacker",
+      "name": "Cheryl Thacker",
+      "region": "US",
+      "location": "Wilmington, Delaware, US",
+      "niche": "Coach education / business coaching",
+      "source": "https://scecoachingacademy.com/icf-level-2-certification/",
+      "offer": "SCE Coaching Academy’s structured ICF Level 2 certification.",
+      "reason": "The exact Instagram is linked on Cheryl’s LinkedIn. Cohort enrolment is a fit for events, landing pages and email. Cross-platform overlap: LinkedIn today.",
+      "evidenceSources": [
+        "https://www.instagram.com/coachcherylthacker/",
+        "https://scecoachingacademy.com/icf-level-2-certification/"
+      ],
+      "checkedAt": "2026-10-09T09:06:07.284Z",
+      "scoutedAt": "2026-10-09",
+      "message": "Hey Cheryl, hope you're doing well. I came across SCE Coaching Academy’s structured ICF Level 2 certification. and its focus on coach education / business coaching. I'm Preet, a launch and ads specialist for coaches and course creators, with 2026 programme, digital-course and US coach virtual-event campaign experience. Would support with Meta ads, a virtual event, funnels or email be useful for this offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "ig-bookofstar",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/bookofstar/",
+      "handle": "@bookofstar",
+      "name": "Shamara “Star” Cox",
+      "region": "US",
+      "location": "New York, New York, US",
+      "niche": "Content / marketing coaching",
+      "source": "https://www.contentcashflowacademy.com/",
+      "offer": "Content Cashflow Academy: paid six-month programme for coaches and business owners.",
+      "reason": "Her official link hub connects the identity and academy. Cross-platform overlap: LinkedIn today; use one channel.",
+      "evidenceSources": [
+        "https://www.instagram.com/bookofstar/",
+        "https://www.contentcashflowacademy.com/"
+      ],
+      "checkedAt": "2026-10-09T09:06:07.284Z",
+      "scoutedAt": "2026-10-09",
+      "message": "Hey Shamara, hope you're doing well. I came across Content Cashflow Academy and its focus on content / marketing coaching. I'm Preet, a launch and ads specialist for coaches and course creators, with 2026 programme, digital-course and US coach virtual-event campaign experience. Would support with Meta ads, a virtual event, funnels or email be useful for this offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "ig-dianecunninghamellis",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/dianecunninghamellis/",
+      "handle": "@dianecunninghamellis",
+      "name": "Diane Cunningham Ellis",
+      "region": "US",
+      "location": "Irving, Texas, US",
+      "niche": "Business coaching / women leadership",
+      "source": "https://dianecunningham.com/bravertogethermastermind/",
+      "offer": "Braver Together Mastermind and Brave Business School education for women entrepreneurs.",
+      "reason": "A defined programme ladder suited to launches and nurturing. Cross-platform overlap: LinkedIn and Skool today; choose one channel.",
+      "evidenceSources": [
+        "https://www.instagram.com/dianecunninghamellis/",
+        "https://dianecunningham.com/bravertogethermastermind/"
+      ],
+      "checkedAt": "2026-10-09T09:06:07.284Z",
+      "scoutedAt": "2026-10-09",
+      "message": "Hey Diane, hope you're doing well. I came across Braver Together Mastermind and Brave Business School education for women entrepreneurs. and its focus on business coaching / women leadership. I'm Preet, a launch and ads specialist for coaches and course creators, with 2026 programme, digital-course and US coach virtual-event campaign experience. Would support with Meta ads, a virtual event, funnels or email be useful for this offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "ig-arnetra",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/arnetra/",
+      "handle": "@arnetra",
+      "name": "Arnetra Shettleworth",
+      "region": "US",
+      "location": "United States",
+      "niche": "Women’s wellness / menopause coaching",
+      "source": "https://www.skool.com/thrive-through-the-change/about",
+      "offer": "Thrive Through The Change: $47/month menopause coaching community.",
+      "reason": "Her public coaching identity and paid Skool ownership are verified. Cross-platform overlap: LinkedIn and Skool today; choose one channel.",
+      "evidenceSources": [
+        "https://www.instagram.com/arnetra/",
+        "https://www.skool.com/thrive-through-the-change/about"
+      ],
+      "checkedAt": "2026-10-09T09:06:07.284Z",
+      "scoutedAt": "2026-10-09",
+      "message": "Hey Arnetra, hope you're doing well. I came across Thrive Through The Change and its focus on women’s wellness / menopause coaching. I'm Preet, a launch and ads specialist for coaches and course creators, with 2026 programme, digital-course and US coach virtual-event campaign experience. Would support with Meta ads, a virtual event, funnels or email be useful for this offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
     }
   ],
-  "lastRunAt": "2026-10-08T09:08:12.259Z",
-  "summary": "2026-10-08: added 8 verified Instagram profiles (US 5, Dubai 3). Regional shortfall: Dubai 2; US 0. Additional Dubai candidates lacked a verifiable exact Instagram handle linked to identity, geography and paid offer. Dedicated business, marketing, AI and content searches completed; no unsuitable profiles used to fill the quota. All overlaps are flagged. No outreach sent."
+  "lastRunAt": "2026-10-09T09:06:07.284Z",
+  "summary": "2026-10-09: added 10 verified Instagram profiles, 5 Dubai and 5 US. Dedicated business, marketing, AI and content-coach searches were run. Cross-platform overlaps are flagged to prevent duplicate outreach. No follows or messages sent."
 }
