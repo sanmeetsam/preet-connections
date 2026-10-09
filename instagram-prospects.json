@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-09T09:06:07.284Z",
+  "updatedAt": "2026-10-09T09:06:48.949Z",
   "prospects": [
     {
       "id": "ig-parentprospercoaching",
@@ -1159,10 +1159,10 @@
       "followUp": ""
     },
     {
-      "id": "ig-bookofstar",
+      "id": "ig-bookofstar_",
       "platform": "Instagram",
-      "instagram": "https://www.instagram.com/bookofstar/",
-      "handle": "@bookofstar",
+      "instagram": "https://www.instagram.com/bookofstar_/",
+      "handle": "@bookofstar_",
       "name": "Shamara “Star” Cox",
       "region": "US",
       "location": "New York, New York, US",
@@ -1171,7 +1171,7 @@
       "offer": "Content Cashflow Academy: paid six-month programme for coaches and business owners.",
       "reason": "Her official link hub connects the identity and academy. Cross-platform overlap: LinkedIn today; use one channel.",
       "evidenceSources": [
-        "https://www.instagram.com/bookofstar/",
+        "https://www.instagram.com/bookofstar_/",
         "https://www.contentcashflowacademy.com/"
       ],
       "checkedAt": "2026-10-09T09:06:07.284Z",
@@ -1205,10 +1205,10 @@
       "followUp": ""
     },
     {
-      "id": "ig-arnetra",
+      "id": "ig-nutritionwithnetra",
       "platform": "Instagram",
-      "instagram": "https://www.instagram.com/arnetra/",
-      "handle": "@arnetra",
+      "instagram": "https://www.instagram.com/nutritionwithnetra/",
+      "handle": "@nutritionwithnetra",
       "name": "Arnetra Shettleworth",
       "region": "US",
       "location": "United States",
@@ -1217,7 +1217,7 @@
       "offer": "Thrive Through The Change: $47/month menopause coaching community.",
       "reason": "Her public coaching identity and paid Skool ownership are verified. Cross-platform overlap: LinkedIn and Skool today; choose one channel.",
       "evidenceSources": [
-        "https://www.instagram.com/arnetra/",
+        "https://www.instagram.com/nutritionwithnetra/",
         "https://www.skool.com/thrive-through-the-change/about"
       ],
       "checkedAt": "2026-10-09T09:06:07.284Z",
@@ -1228,6 +1228,6 @@
       "followUp": ""
     }
   ],
-  "lastRunAt": "2026-10-09T09:06:07.284Z",
+  "lastRunAt": "2026-10-09T09:06:48.949Z",
   "summary": "2026-10-09: added 10 verified Instagram profiles, 5 Dubai and 5 US. Dedicated business, marketing, AI and content-coach searches were run. Cross-platform overlaps are flagged to prevent duplicate outreach. No follows or messages sent."
 }
