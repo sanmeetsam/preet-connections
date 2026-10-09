@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T09:08:12.259Z",
-  "lastRunAt": "2026-10-08T09:08:12.259Z",
+  "updatedAt": "2026-10-09T09:06:30.869Z",
+  "lastRunAt": "2026-10-09T09:06:30.869Z",
   "target": {
     "total": 5,
     "regions": [
@@ -9,7 +9,7 @@
       "US"
     ]
   },
-  "summary": "2026-10-08: added 4 verified female Skool creators (US 3, Dubai 1). Shortfall: 1 of 5. Dedicated business, marketing, AI and content searches completed alongside existing niches. Additional results were membership-only accounts, outside US/Dubai, or free communities without verified paid offers; these were excluded. Kristine Alise's owned Florida community advertises a Premium layer, but explicit paid pricing/checkout could not be verified. Mariah's current public Skool intake is marked closed; paid programme and official separate offer are recorded without claiming open enrolment. Cross-platform overlaps flagged. No communities joined, payments made or messages sent.",
+  "summary": "2026-10-09: added 5 verified Skool creators, all US. Each original profile verifies ownership; four display paid community pricing and Diane’s free community is backed by a separately verified paid mastermind. Dedicated business, marketing, AI and content-coach searches were run; no additional candidates in those categories passed every ownership/location/offer check. No communities joined and no outreach sent.",
   "prospects": [
     {
       "id": "skool-tina-ghazi-8171",
@@ -387,6 +387,131 @@
       "notes": "",
       "followUp": "",
       "contactNote": "Public personal creator account; no team account indicated. Direct messaging availability without login or shared membership is unverified. No community was joined, paid for or contacted."
+    },
+    {
+      "id": "skool-tisia-saffold-3450",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@tisia-saffold-3450",
+      "community": "https://www.skool.com/becoming-an-it-girl/about",
+      "name": "Tisia Saffold",
+      "region": "US",
+      "location": "Atlanta, Georgia, US",
+      "niche": "Confidence / dating / mindset coaching",
+      "source": "https://www.skool.com/becoming-an-it-girl/about",
+      "offer": "Becoming an It Girl: $37/month paid women’s confidence, dating and personal-growth community.",
+      "reason": "Original profile explicitly says owned by Tisia and displays the paid price and coaching focus.",
+      "evidenceSources": [
+        "https://www.skool.com/@tisia-saffold-3450",
+        "https://www.skool.com/becoming-an-it-girl/about",
+        "https://www.skool.com/becoming-an-it-girl/about"
+      ],
+      "checkedAt": "2026-10-09T09:06:30.869Z",
+      "scoutedAt": "2026-10-09",
+      "message": "Hey Tisia, hope you're doing well. I came across Becoming an It Girl and its focus on confidence / dating / mindset coaching. I'm Preet, a launch and ads specialist for coaches and course creators, with 2026 programme, digital-course and US coach virtual-event campaign experience. Would support with Meta ads, a virtual event, funnels or email be useful for this offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Public personal creator account; direct messaging availability without login or shared membership is unverified. No community was joined, paid for or contacted."
+    },
+    {
+      "id": "skool-arnetra-shettleworth-1114",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@arnetra-shettleworth-1114",
+      "community": "https://www.skool.com/thrive-through-the-change/about",
+      "name": "Arnetra Shettleworth",
+      "region": "US",
+      "location": "United States",
+      "niche": "Women’s wellness / menopause coaching",
+      "source": "https://www.skool.com/thrive-through-the-change/about",
+      "offer": "Thrive Through The Change: $47/month paid menopause coaching community.",
+      "reason": "Original Skool profile verifies US geography, ownership, price and current community. Cross-platform overlap: LinkedIn and Instagram today; use one channel.",
+      "evidenceSources": [
+        "https://www.skool.com/@arnetra-shettleworth-1114",
+        "https://www.skool.com/thrive-through-the-change/about",
+        "https://www.skool.com/thrive-through-the-change/about"
+      ],
+      "checkedAt": "2026-10-09T09:06:30.869Z",
+      "scoutedAt": "2026-10-09",
+      "message": "Hey Arnetra, hope you're doing well. I came across Thrive Through The Change and its focus on women’s wellness / menopause coaching. I'm Preet, a launch and ads specialist for coaches and course creators, with 2026 programme, digital-course and US coach virtual-event campaign experience. Would support with Meta ads, a virtual event, funnels or email be useful for this offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Public personal creator account; direct messaging availability without login or shared membership is unverified. No community was joined, paid for or contacted."
+    },
+    {
+      "id": "skool-laura-mcchesney-9668",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@laura-mcchesney-9668",
+      "community": "https://www.skool.com/get-moving-coaching/about",
+      "name": "Laura Mcchesney",
+      "region": "US",
+      "location": "Gainesville, Florida, US",
+      "niche": "Women’s wellness / movement coaching",
+      "source": "https://www.skool.com/get-moving-coaching/about",
+      "offer": "Get Moving Coaching: $25/month paid movement and health community for women 30–55.",
+      "reason": "Original profile verifies Laura owns the paid community and is a Gainesville, Florida rehab chiropractor.",
+      "evidenceSources": [
+        "https://www.skool.com/@laura-mcchesney-9668",
+        "https://www.skool.com/get-moving-coaching/about",
+        "https://www.skool.com/get-moving-coaching/about"
+      ],
+      "checkedAt": "2026-10-09T09:06:30.869Z",
+      "scoutedAt": "2026-10-09",
+      "message": "Hey Laura, hope you're doing well. I came across Get Moving Coaching and its focus on women’s wellness / movement coaching. I'm Preet, a launch and ads specialist for coaches and course creators, with 2026 programme, digital-course and US coach virtual-event campaign experience. Would support with Meta ads, a virtual event, funnels or email be useful for this offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Public personal creator account; direct messaging availability without login or shared membership is unverified. No community was joined, paid for or contacted."
+    },
+    {
+      "id": "skool-kristina",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@kristina",
+      "community": "https://www.skool.com/plant-powered-with-kristina/about",
+      "name": "Kristina Todini",
+      "region": "US",
+      "location": "San Diego, California, US",
+      "niche": "Women’s wellness / nutrition education",
+      "source": "https://www.skool.com/plant-powered-with-kristina/about",
+      "offer": "Plant Powered with Kristina: $29/month paid nutrition and lifestyle community for women 40+.",
+      "reason": "Original profile verifies ownership, San Diego location and the paid offer.",
+      "evidenceSources": [
+        "https://www.skool.com/@kristina",
+        "https://www.skool.com/plant-powered-with-kristina/about",
+        "https://www.skool.com/plant-powered-with-kristina/about"
+      ],
+      "checkedAt": "2026-10-09T09:06:30.869Z",
+      "scoutedAt": "2026-10-09",
+      "message": "Hey Kristina, hope you're doing well. I came across Plant Powered with Kristina and its focus on women’s wellness / nutrition education. I'm Preet, a launch and ads specialist for coaches and course creators, with 2026 programme, digital-course and US coach virtual-event campaign experience. Would support with Meta ads, a virtual event, funnels or email be useful for this offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Public personal creator account; direct messaging availability without login or shared membership is unverified. No community was joined, paid for or contacted."
+    },
+    {
+      "id": "skool-diane-cunningham-ellis-4974",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@diane-cunningham-ellis-4974",
+      "community": "https://www.skool.com/business-bestie-hub-8845/about",
+      "name": "Diane Cunningham Ellis",
+      "region": "US",
+      "location": "Irving, Texas, US",
+      "niche": "Business coaching / women entrepreneurs",
+      "source": "https://dianecunningham.com/bravertogethermastermind/",
+      "offer": "Brave Business School community plus separately verified paid Braver Together Mastermind.",
+      "reason": "Original profile verifies community ownership; the free community qualifies through Diane’s separate paid mastermind. Cross-platform overlap: LinkedIn and Instagram today; use one channel.",
+      "evidenceSources": [
+        "https://www.skool.com/@diane-cunningham-ellis-4974",
+        "https://www.skool.com/business-bestie-hub-8845/about",
+        "https://dianecunningham.com/bravertogethermastermind/"
+      ],
+      "checkedAt": "2026-10-09T09:06:30.869Z",
+      "scoutedAt": "2026-10-09",
+      "message": "Hey Diane, hope you're doing well. I came across Brave Business School community plus separately verified paid Braver Together Mastermind. and its focus on business coaching / women entrepreneurs. I'm Preet, a launch and ads specialist for coaches and course creators, with 2026 programme, digital-course and US coach virtual-event campaign experience. Would support with Meta ads, a virtual event, funnels or email be useful for this offer? Happy to share a relevant example if helpful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Public personal creator account; direct messaging availability without login or shared membership is unverified. No community was joined, paid for or contacted."
     }
   ]
 }
