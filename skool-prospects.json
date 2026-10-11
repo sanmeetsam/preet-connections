@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-09T09:06:30.869Z",
-  "lastRunAt": "2026-10-09T09:06:30.869Z",
+  "updatedAt": "2026-10-11T09:15:34Z",
+  "lastRunAt": "2026-10-11T09:15:34Z",
   "target": {
     "total": 5,
     "regions": [
@@ -9,7 +9,7 @@
       "US"
     ]
   },
-  "summary": "2026-10-09: added 5 verified Skool creators, all US. Each original profile verifies ownership; four display paid community pricing and Diane’s free community is backed by a separately verified paid mastermind. Dedicated business, marketing, AI and content-coach searches were run; no additional candidates in those categories passed every ownership/location/offer check. No communities joined and no outreach sent.",
+  "summary": "2026-10-11: Added 5 verified new Skool creators (US 5, Dubai 0); target 5 reached with no forced regional split. Dedicated business, marketing, practical AI and content coach searches completed alongside the existing niches. Exact creator profiles, Owned listings, community bylines, public geography and paid offers verified. Sylvia's free base community qualifies through advertised premium coaching and a separately verified paid programme. Tammy's public page has inconsistent yoga/empowerment positioning, flagged for clarification. No existing person-level feed overlaps found; every prior record preserved. No communities joined, payments made or outreach sent.",
   "prospects": [
     {
       "id": "skool-tina-ghazi-8171",
@@ -512,6 +512,128 @@
       "notes": "",
       "followUp": "",
       "contactNote": "Public personal creator account; direct messaging availability without login or shared membership is unverified. No community was joined, paid for or contacted."
+    },
+    {
+      "id": "skool-nicole-m-7845",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@nicole-m-7845",
+      "community": "Digital Roadmap AI Incubator",
+      "name": "Nicole McCain AI",
+      "region": "US",
+      "location": "United States (public Skool profile)",
+      "niche": "Practical AI · business · marketing · content coaching",
+      "source": "https://www.skool.com/aiincubator/about",
+      "offer": "Paid Digital Roadmap AI Incubator membership at $47/month: practical Claude workspace, business AI workflows, content/search training, automations, templates and weekly live support.",
+      "reason": "Original community names Nicole as creator and her public profile lists it under Owned. Practical, monetised AI education for business owners qualifies beyond a generic AI account. Preet's digital-course launches and US coach virtual-event campaigns could support a membership webinar funnel, Meta ads and email onboarding; no AI-specialist credentials are attributed to Preet. No person-level overlap found in the existing profile feeds.",
+      "evidenceSources": [
+        "https://www.skool.com/@nicole-m-7845",
+        "https://www.skool.com/aiincubator/about"
+      ],
+      "checkedAt": "2026-10-11T09:13:44Z",
+      "scoutedAt": "2026-10-11",
+      "message": "Hey Nicole, hope you're doing well. Your Digital Roadmap AI Incubator pairs practical business AI workflows with weekly live support. I'm Preet, a launch and ads specialist for coaches and course creators, with experience supporting digital-course launches and US coach virtual-event campaigns. Would help with a membership webinar funnel, Meta ads or email onboarding be useful? Happy to share a relevant portfolio example if that would help—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Named creator account; the public Owned listing and community byline confirm ownership. Team handling is not stated. DM availability may depend on membership/account permissions and has not been tested; no joining, paying or messaging performed."
+    },
+    {
+      "id": "skool-brittnie-storm-9091",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@brittnie-storm-9091",
+      "community": "RISE With Brittnie",
+      "name": "Brittnie Storm",
+      "region": "US",
+      "location": "United States (public Skool profile)",
+      "niche": "Business · brand · content coaching for women entrepreneurs",
+      "source": "https://www.skool.com/rise-with-brittnie/about",
+      "offer": "RISE With Brittnie: paid $97/month mentorship community for women building online businesses and ecom brands, with strategy, content direction and ongoing training/tools.",
+      "reason": "Original community identifies Brittnie as creator and her profile lists it under Owned. This is paid business/content mentorship rather than a done-for-you agency offer. Preet's women leadership programme and digital-course launches could support a workshop funnel, clear membership messaging and email nurture. No person-level overlap found in the existing profile feeds.",
+      "evidenceSources": [
+        "https://www.skool.com/@brittnie-storm-9091",
+        "https://www.skool.com/rise-with-brittnie/about"
+      ],
+      "checkedAt": "2026-10-11T09:13:44Z",
+      "scoutedAt": "2026-10-11",
+      "message": "Hey Brittnie, hope you're doing well. RISE With Brittnie gives women entrepreneurs mentorship, brand direction and ongoing training. I'm Preet, a launch and ads specialist for coaches and course creators, with experience supporting women leadership programme and digital-course launches. Would help with workshop funnels, membership messaging or email nurture be useful? Happy to share a relevant portfolio example if that would help—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Named creator account; the public Owned listing and community byline confirm ownership. Team handling is not stated. DM availability may depend on membership/account permissions and has not been tested; no joining, paying or messaging performed."
+    },
+    {
+      "id": "skool-kwaacademy",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@kwaacademy",
+      "community": "Kingdom Warrior Academy",
+      "name": "Coach Israel",
+      "region": "US",
+      "location": "United States (public Skool profile)",
+      "niche": "Faith-based business · practical AI · creator education",
+      "source": "https://www.skool.com/kingdom-wealth-academy-2056/about",
+      "offer": "Kingdom Warrior Academy: paid community advertised at $50, covering purpose-driven businesses, AI twin/music creation, authorpreneurship, marketing and branding. Billing interval is not stated on the public page.",
+      "reason": "Public profile identifies a female founder and lists this community under Owned; original about page names Coach Israel as creator. The paid practical AI and creator-business education qualifies. Preet's digital-course launches and US coach virtual-event campaigns could support educational webinar registration, offer messaging and email follow-up. Exact billing interval and account handling should be confirmed. No person-level overlap found in the existing profile feeds.",
+      "evidenceSources": [
+        "https://www.skool.com/@kwaacademy",
+        "https://www.skool.com/kingdom-wealth-academy-2056/about"
+      ],
+      "checkedAt": "2026-10-11T09:13:44Z",
+      "scoutedAt": "2026-10-11",
+      "message": "Hey Coach Israel, hope you're doing well. Kingdom Warrior Academy brings together faith-led business education, creator skills and practical AI topics. I'm Preet, a launch and ads specialist for coaches and course creators, with experience supporting digital-course launches and US coach virtual-event campaigns. Would help with educational webinar funnels, offer messaging or email follow-up be useful? Happy to share a relevant portfolio example if that would help—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Branded founder account using the public name Coach Israel; legal name and any team handling are not verified. Private paid community. Ability to DM without membership is not verified; no joining, paying or messaging performed."
+    },
+    {
+      "id": "skool-tammy-cannon-2615",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@tammy-cannon-2615",
+      "community": "Yoga with Dr. Tammy",
+      "name": "Dr. Tammy Cannon",
+      "region": "US",
+      "location": "California, United States (public Skool profile)",
+      "niche": "Women's wellness · empowerment · personal development",
+      "source": "https://www.skool.com/piecing-back-the-peace-6010/about",
+      "offer": "Paid Yoga with Dr. Tammy membership advertised at $9/month. The current about body describes Girl, Get Up! women's empowerment support, while the footer describes yoga sessions and recordings; active format needs clarification.",
+      "reason": "Original community names Tammy as creator and her profile lists it under Owned. Paid women's wellbeing/empowerment education fits Preet's women leadership programme and digital-course launch experience. A clear membership landing page and email nurture are potential support areas. The public page mixes empowerment and yoga positioning, and profile activity is limited; clarify current programme format before outreach. No person-level overlap found in the existing profile feeds.",
+      "evidenceSources": [
+        "https://www.skool.com/@tammy-cannon-2615",
+        "https://www.skool.com/piecing-back-the-peace-6010/about"
+      ],
+      "checkedAt": "2026-10-11T09:13:44Z",
+      "scoutedAt": "2026-10-11",
+      "message": "Hey Tammy, hope you're doing well. Your paid community centres on women's wellbeing and support through life transitions. I'm Preet, a launch and ads specialist for coaches and course creators, with experience supporting women leadership programme and digital-course launches. Would help with clear membership messaging, a landing-page funnel or email nurture be useful? Happy to share a relevant portfolio example if that would help—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Named creator account; the public Owned listing and community byline confirm ownership. Team handling is not stated. DM availability may depend on membership/account permissions and has not been tested; no joining, paying or messaging performed."
+    },
+    {
+      "id": "skool-sylvia",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@sylvia",
+      "community": "Stage Charisma Society",
+      "name": "Sylvia Becker-Hill",
+      "region": "US",
+      "location": "Vista, California, United States",
+      "niche": "Women's leadership · speaking · business coaching",
+      "source": "https://www.skool.com/stagecharismasociety/about",
+      "offer": "Stage Charisma Society has a free base community and an advertised paid premium upgrade ($27 for the first 20, then $37/month), plus tailored coaching. Separately, the official Resilience Bootcamp page offers a paid 30-day programme at $1,200.",
+      "reason": "Original community names Sylvia as creator and the current @sylvia profile lists it under Owned, with Vista location. Free base access is not treated as the paid offer: premium coaching and a separately verified paid Resilience Bootcamp establish monetisation. Preet's women leadership programme launches and US coach virtual-event campaigns fit speaking-workshop funnels, premium-offer messaging and email nurture. No person-level overlap found in the existing profile feeds.",
+      "evidenceSources": [
+        "https://www.skool.com/@sylvia",
+        "https://www.skool.com/stagecharismasociety/about",
+        "https://becker-hill.com/resiliencebootcamp",
+        "https://www.skool.com/@sylvia?g=skool-scale-camp"
+      ],
+      "checkedAt": "2026-10-11T09:13:44Z",
+      "scoutedAt": "2026-10-11",
+      "message": "Hey Sylvia, hope you're doing well. Stage Charisma Society helps businesswomen develop their voice and leadership through speaking, with premium coaching available. I'm Preet, a launch and ads specialist for coaches and course creators, with experience supporting women leadership programme launches and US coach virtual-event campaigns. Would help with speaking-workshop funnels, premium-offer messaging or email nurture be useful? Happy to share a relevant portfolio example if that would help—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Named creator account; the public Owned listing and community byline confirm ownership. Team handling is not stated. DM availability may depend on membership/account permissions and has not been tested; no joining, paying or messaging performed."
     }
   ]
 }
