@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-09T09:06:56.890Z",
-  "lastRunAt": "2026-10-09T09:06:56.890Z",
+  "updatedAt": "2026-10-11T09:15:33Z",
+  "lastRunAt": "2026-10-11T09:15:33Z",
   "target": {
     "total": 5,
     "US": 3,
     "Dubai": 2
   },
   "recencyDays": 20,
-  "summary": "2026-10-09: 0 new qualifying Hiring opportunities saved after a dedicated 20-day search of LinkedIn posts and Jobs. The combined target was 5 (3 US, 2 Dubai); shortfall: US 3, Dubai 2. Search covered explicit hiring, looking-for, seeking and recommendation requests for Meta ads, launch/funnel, email/copywriting, webinar, messaging and automation support, plus relevant LinkedIn Jobs. Surfaced results were excluded because they lacked an original in-window publication date, current availability, explicit paid demand, or verified coach/course-creator or qualifying agency context. Existing 2 records preserved. Posts added: 0; jobs added: 0. No outreach sent.",
+  "summary": "2026-10-11: Added 1 new qualifying Hiring opportunity: 0 posts and 1 LinkedIn job, US 1 / Dubai 0. Combined target 5 (US 3, Dubai 2); shortfall US 2, Dubai 2. Searched the full 20-day window (21 September–11 October), ranking recent results first, including explicit hiring, looking-for, seeking and recommendation/referral requests for Meta ads, launch/funnels, email/copywriting, webinar, messaging, tech and automation help, plus relevant LinkedIn Jobs at female coach/creator businesses and verified coaching/course agencies. Original job publication age is '1 week ago'; no crawl dates used as publication evidence. Voice Power Studios part-time vacancy saved with mandatory Joomla gap, availability/eligibility and freelance compatibility unknown. Closed Coach Transformation Academy listing and stale, undated, duplicate, provider-promotional or unrelated results excluded. All existing records preserved. No outreach or applications sent.",
   "prospects": [
     {
       "id": "job-4457975763",
@@ -63,6 +63,37 @@
       "evidenceSources": [
         "https://royalchange.fit/about",
         "https://royalchange.fit/"
+      ],
+      "status": "To review",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "job-4473893319",
+      "platform": "Hiring posts",
+      "sourceType": "LinkedIn job",
+      "name": "Sandra McKnight",
+      "company": "Voice Power Studios | Sandra McKnight",
+      "title": "Joomla Web Master | Voice Power Studios",
+      "employmentType": "Part-time employment",
+      "linkedin": "https://www.linkedin.com/in/sandramcknightvps/",
+      "postUrl": "https://www.linkedin.com/jobs/view/4473893319/",
+      "source": "https://www.linkedin.com/jobs/view/4473893319/",
+      "region": "US",
+      "location": "United States; poster profile lists San Francisco Bay Area and official business site lists Santa Fe, New Mexico. Remote/international eligibility not specified.",
+      "niche": "Website tech · email marketing integrations · coaching business",
+      "offer": "Ongoing part-time webmaster vacancy for a female-owned executive voice/speech coaching business, including website updates and continuity of its autoresponder/email marketing integration.",
+      "reason": "Direct female coaching business, not an agency: original job identifies Sandra as poster; her profile and official Voice Power Studios site verify executive voice and speech coaching. Website/email integration work overlaps Preet's tech, funnels and email support, with relevant women leadership programme launch experience. Mandatory extensive Joomla administration experience is not established by Preet's supplied portfolio; SEO/AIO expertise also needs confirmation. This is an employment vacancy, not evidence that freelance or agency services are accepted. US work-location/eligibility requirements and Dubai-based support are unknown. Enquire only if the technical requirements can be met; do not imply Joomla expertise or apply automatically.",
+      "evidence": "Original listing explicitly seeks an ongoing webmaster to maintain its Joomla site, publish content, troubleshoot forms and manage its existing autoresponder/email-marketing integration. It requests extensive Joomla experience and portfolio/references; public page retains application instructions and no closed banner was observed.",
+      "postedAt": null,
+      "postedText": "Original LinkedIn listing displayed '1 week ago' when checked on 11 October 2026. Relative publication age falls within the 20-day window; exact calendar publication date was unavailable. This is not a crawl-date inference.",
+      "checkedAt": "2026-10-11T09:13:44Z",
+      "availability": "Not confirmed",
+      "scoutedAt": "2026-10-11",
+      "message": "Hey Sandra, hope you're doing well. I came across your part-time webmaster listing for Voice Power Studios, particularly the website and email-marketing integration work supporting your executive voice coaching. I'm Preet, a launch and ads specialist with women leadership programme launch experience, covering funnels, email and launch tech. I see that extensive Joomla administration is essential; I would want to clarify that requirement before discussing fit. Is the role still available, and would you consider Dubai-based contract support for the funnel/email components, or is this strictly a US employment role? Happy to share relevant portfolio examples if useful.",
+      "evidenceSources": [
+        "https://www.linkedin.com/in/sandramcknightvps/",
+        "https://www.voicepowerstudios.com/"
       ],
       "status": "To review",
       "notes": "",
