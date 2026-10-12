@@ -25,11 +25,12 @@ let activePlatform='LinkedIn';
 const HIRING_STATUSES=['To review','Contacted','Replied','Follow-up','Won','Closed'];
 const HIRING_DEFAULT='No verified recent hiring opportunities in this batch. Target: 3 US + 2 Dubai. Only genuine service requests from relevant coaches/course creators are added.';
 let hiringSummary=HIRING_DEFAULT;
+const AGENCY_STATUSES=['To contact','Message sent','Replied','Follow-up','Closed'];
 const IG_STATUSES=['To contact','Following','Message sent','Replied','Follow-up','Closed'];
 const platformOf=r=>r.platform||'LinkedIn';
 const hasLinkedIn=r=>records.some(p=>p.name===r.name&&platformOf(p)==='LinkedIn');
 const workspace=()=>records.filter(r=>platformOf(r)===activePlatform);
-const statusesFor=r=>platformOf(r)==='Hiring posts'?HIRING_STATUSES:['Instagram','Skool','Agencies'].includes(platformOf(r))?IG_STATUSES:STATUSES;
+const statusesFor=r=>platformOf(r)==='Agencies'?AGENCY_STATUSES:platformOf(r)==='Hiring posts'?HIRING_STATUSES:['Instagram','Skool','Agencies'].includes(platformOf(r))?IG_STATUSES:STATUSES;
 let records=[],db,feedUpdated='',lastExport='';const $=id=>document.getElementById(id);const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const validUrl=u=>{try{const v=new URL(u);return v.protocol==='https:'?v.href:'#'}catch{return '#'}};
 function notice(t,error=false){$('notice').textContent=t;$('notice').classList.toggle('error',error)}
@@ -87,7 +88,7 @@ async function refresh(){
  }catch(e){notice('Could not load new prospects. Your saved workspace is still available. Try again when online.',true);render()}
  finally{$('refresh').disabled=false}
 }
-document.querySelectorAll('[data-platform]').forEach(button=>button.onclick=()=>{activePlatform=button.dataset.platform;document.querySelectorAll('[data-platform]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));$('statusfilter').innerHTML='<option value="">All statuses</option>'+(activePlatform==='Hiring posts'?HIRING_STATUSES:['Instagram','Skool','Agencies'].includes(activePlatform)?IG_STATUSES:STATUSES).map(s=>'<option>'+esc(s)+'</option>').join('');$('acceptedlabel').textContent=activePlatform==='Hiring posts'?'Contacted · awaiting reply':['Instagram','Skool','Agencies'].includes(activePlatform)?'Message sent · awaiting reply':'Accepted · message ready';for(const id of ['search','region','niche','batch'])$(id).value='';$('due').checked=false;populate();render()});
+document.querySelectorAll('[data-platform]').forEach(button=>button.onclick=()=>{activePlatform=button.dataset.platform;document.querySelectorAll('[data-platform]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));$('statusfilter').innerHTML='<option value="">All statuses</option>'+(activePlatform==='Agencies'?AGENCY_STATUSES:activePlatform==='Hiring posts'?HIRING_STATUSES:['Instagram','Skool','Agencies'].includes(activePlatform)?IG_STATUSES:STATUSES).map(s=>'<option>'+esc(s)+'</option>').join('');$('acceptedlabel').textContent=activePlatform==='Hiring posts'?'Contacted · awaiting reply':['Instagram','Skool','Agencies'].includes(activePlatform)?'Message sent · awaiting reply':'Accepted · message ready';for(const id of ['search','region','niche','batch'])$(id).value='';$('due').checked=false;populate();render()});
 const pending=new Map();
 async function saveField(id,field,value,node){const r=records.find(p=>p.id===id);if(!r)return;const previous=r[field];const previousMessageSentAt=r.messageSentAt;r[field]=value;if(field==='status'&&platformOf(r)==='LinkedIn'&&value!==previous){if(value==='Message sent')r.messageSentAt=new Date().toISOString();else delete r.messageSentAt;}try{await persist();metrics();updateMessageAges();const article=node.closest('article');if(field==='status'&&article)article.querySelector('.row-status').textContent=value;const saved=article?.querySelector('.saved');if(saved)saved.textContent='Saved';if(field==='status'&&$('statusfilter').value)render()}catch(e){r[field]=previous;if(previousMessageSentAt===undefined)delete r.messageSentAt;else r.messageSentAt=previousMessageSentAt;notice('Could not save this edit. Keep this page open and export a backup before closing.',true)}}
 $('list').addEventListener('input',e=>{const f=e.target.dataset.field;if(!f||f==='status'||f==='followUp')return;const id=e.target.closest('article').dataset.id;records.find(p=>p.id===id)[f]=e.target.value;const key=id+f;clearTimeout(pending.get(key));pending.set(key,setTimeout(()=>{pending.delete(key);saveField(id,f,e.target.value,e.target)},250))});
