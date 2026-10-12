@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T09:15:33Z",
-  "lastRunAt": "2026-10-11T09:15:33Z",
+  "updatedAt": "2026-10-12T09:13:19.684Z",
+  "lastRunAt": "2026-10-12T09:13:19.684Z",
   "target": {
     "total": 5,
     "US": 3,
     "Dubai": 2
   },
   "recencyDays": 20,
-  "summary": "2026-10-11: Added 1 new qualifying Hiring opportunity: 0 posts and 1 LinkedIn job, US 1 / Dubai 0. Combined target 5 (US 3, Dubai 2); shortfall US 2, Dubai 2. Searched the full 20-day window (21 September–11 October), ranking recent results first, including explicit hiring, looking-for, seeking and recommendation/referral requests for Meta ads, launch/funnels, email/copywriting, webinar, messaging, tech and automation help, plus relevant LinkedIn Jobs at female coach/creator businesses and verified coaching/course agencies. Original job publication age is '1 week ago'; no crawl dates used as publication evidence. Voice Power Studios part-time vacancy saved with mandatory Joomla gap, availability/eligibility and freelance compatibility unknown. Closed Coach Transformation Academy listing and stale, undated, duplicate, provider-promotional or unrelated results excluded. All existing records preserved. No outreach or applications sent.",
+  "summary": "2026-10-12: Added 0 hiring posts and 0 LinkedIn jobs. Combined target 3 US / 2 Dubai; shortfall US 3, Dubai 2. Searched 20-day window 22 September–12 October for hiring, seeking, looking-for and referral/recommendation requests, plus relevant LinkedIn Jobs at coach/course businesses and agencies. No result passed date, geography, category, explicit demand and availability checks. Original Jordana Ansel request is 3mo old and Canada-local; Sara Getz request is 2mo old. Coach Suchetaa request displayed 5d but India context/geography cannot satisfy US/Dubai scope. Ad Girls job pages could not be fetched to establish current publication/availability, so not added. Service sellers, duplicates, corporate/unrelated and undated results excluded; crawl dates not treated as publication. All previous records preserved; no applications/outreach.",
   "prospects": [
     {
       "id": "job-4457975763",
