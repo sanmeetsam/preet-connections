@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-11T09:15:34Z",
-  "lastRunAt": "2026-10-11T09:15:34Z",
+  "updatedAt": "2026-10-12T09:13:29.097Z",
+  "lastRunAt": "2026-10-12T09:13:29.097Z",
   "target": {
     "total": 5,
     "regions": [
@@ -9,7 +9,7 @@
       "US"
     ]
   },
-  "summary": "2026-10-11: Added 5 verified new Skool creators (US 5, Dubai 0); target 5 reached with no forced regional split. Dedicated business, marketing, practical AI and content coach searches completed alongside the existing niches. Exact creator profiles, Owned listings, community bylines, public geography and paid offers verified. Sylvia's free base community qualifies through advertised premium coaching and a separately verified paid programme. Tammy's public page has inconsistent yoga/empowerment positioning, flagged for clarification. No existing person-level feed overlaps found; every prior record preserved. No communities joined, payments made or outreach sent.",
+  "summary": "2026-10-12: Added 5 new Skool creators (US 5, Dubai 0); target reached without forced regional split. Community bylines and Owned listings verify ownership; original paid offers and public geography verified. Dedicated business, marketing, AI and content queries completed alongside mindset/communication discovery. Krista Smith excluded for Halifax geography; unverified owners/offers not padded. Molly/Sarah/Laura/Aprille overlap other new profile channels; Nicole is distinct. Current Molly creator profile @mollybalint verified, replacing an obsolete byline-link candidate; membership is waitlisted and a separate paid product verified. Price conflicts flagged. All previous records preserved; no joins, payments or outreach.",
   "prospects": [
     {
       "id": "skool-tina-ghazi-8171",
@@ -634,6 +634,136 @@
       "notes": "",
       "followUp": "",
       "contactNote": "Named creator account; the public Owned listing and community byline confirm ownership. Team handling is not stated. DM availability may depend on membership/account permissions and has not been tested; no joining, paying or messaging performed."
+    },
+    {
+      "name": "Molly Balint",
+      "region": "US",
+      "location": "Churchville, Maryland, United States",
+      "niche": "Business · content · storytelling coaching",
+      "source": "https://www.skool.com/molly/about",
+      "offer": "SOFT Business Club: $97/month storytelling and messaging membership for women entrepreneurs. Public body says doors are closed; use waitlist/reopening enquiry.",
+      "reason": "Verified business · content · storytelling coaching offer fits Preet's digital-course launches and US coach virtual-event campaigns; potential support: a product-to-membership funnel and email nurture. Membership intake is not asserted open; the separate digital product is monetised. Earlier Skool fetch showed a different annual price; current creator-linked listing shows $97/month. Cross-platform overlap: LinkedIn and Instagram in this batch. These are complementary routes to a verified monetised offer; choose one channel and check tracking before outreach.",
+      "scoutedAt": "2026-10-12",
+      "checkedAt": "2026-10-12T09:09:41.544Z",
+      "evidenceSources": [
+        "https://www.linkedin.com/in/mollybalint",
+        "https://www.mollybalint.com/",
+        "https://www.skool.com/molly/about"
+      ],
+      "id": "skool-mollybalint",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@mollybalint",
+      "community": "SOFT Business Club",
+      "message": "Hey Molly, hope you're doing well. Your Story Vault helps women use storytelling to sell their offers naturally.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience supporting digital-course launches and US coach virtual-event campaigns. Would support with a product-to-membership funnel and email nurture be useful for this offer?\n\nI help connect messaging, ads, landing pages, funnels and email with the launch tech and automations. Happy to share a relevant portfolio example and hear what you're planning if useful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Named creator account: community byline and public Owned listing verify ownership. Team handling is not stated; direct-message access without membership is unverified. No joining, paying or messaging performed."
+    },
+    {
+      "name": "Sarah Memmer",
+      "region": "US",
+      "location": "Los Angeles, California, United States",
+      "niche": "Marketing · brand · content coaching",
+      "source": "https://www.skool.com/memmer-media/about",
+      "offer": "Make Her Magnetic: $117/month paid marketing/visibility education membership with live training, coaching and content feedback.",
+      "reason": "Verified marketing · brand · content coaching offer fits Preet's digital-course launches and US coach virtual-event campaigns; potential support: a workshop registration funnel and membership email onboarding. Education/coaching membership qualifies separately from her consulting services. Her own positioning favours organic visibility; propose complementary funnel/email execution without challenging that approach. Cross-platform overlap: LinkedIn and Instagram in this batch. These are complementary routes to a verified monetised offer; choose one channel and check tracking before outreach.",
+      "scoutedAt": "2026-10-12",
+      "checkedAt": "2026-10-12T09:09:41.544Z",
+      "evidenceSources": [
+        "https://www.linkedin.com/in/sarahmemmer",
+        "https://memmermedia.com/",
+        "https://www.skool.com/@sarah-memmer-7628",
+        "https://www.skool.com/memmer-media/about"
+      ],
+      "id": "skool-sarah-memmer-7628",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@sarah-memmer-7628",
+      "community": "Make Her Magnetic",
+      "message": "Hey Sarah, hope you're doing well. Make Her Magnetic combines live coaching with practical brand and content feedback.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience supporting digital-course launches and US coach virtual-event campaigns. Would support with a workshop registration funnel and membership email onboarding be useful for this offer?\n\nI help connect messaging, ads, landing pages, funnels and email with the launch tech and automations. Happy to share a relevant portfolio example and hear what you're planning if useful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Named creator account: community byline and public Owned listing verify ownership. Team handling is not stated; direct-message access without membership is unverified. No joining, paying or messaging performed."
+    },
+    {
+      "name": "Laura St John",
+      "region": "US",
+      "location": "Malibu, California, United States",
+      "niche": "Mindset · personal development · leadership",
+      "source": "https://www.skool.com/strongconfidentliving/about",
+      "offer": "Strong Confident Living: paid $99/month promotional membership with mindset learning and live coaching.",
+      "reason": "Verified mindset · personal development · leadership offer fits Preet's women leadership programme launches and US coach virtual-event campaigns; potential support: course-to-membership funnels and email follow-up. Offer rates vary between official site and promotional Skool listing; confirm price before using it in any campaign. Cross-platform overlap: LinkedIn and Instagram in this batch. These are complementary routes to a verified monetised offer; choose one channel and check tracking before outreach.",
+      "scoutedAt": "2026-10-12",
+      "checkedAt": "2026-10-12T09:09:41.544Z",
+      "evidenceSources": [
+        "https://www.linkedin.com/in/laura-st-john-5b557412",
+        "https://strongconfidentliving.com/",
+        "https://www.skool.com/@laura-st-john",
+        "https://www.skool.com/strongconfidentliving/about",
+        "https://podcastaddict.com/?id=https%3A%2F%2Fanchor.fm%2Fs%2F1174ab9d4%2Fpodcast%2Fplay%2F125772814%2Fhttps%253A%252F%252Fd3ctxlq1ktw2nl.cloudfront.net%252Fstaging%252F2026-8-15%252F431942014-44100-2-503e95c0f966c.mp3&podcastId=7273883"
+      ],
+      "id": "skool-laura-st-john",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@laura-st-john",
+      "community": "Strong Confident Living",
+      "message": "Hey Laura, hope you're doing well. Strong Confident Living pairs mindset tools with ongoing live coaching.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience supporting women leadership programme launches and US coach virtual-event campaigns. Would support with course-to-membership funnels and email follow-up be useful for this offer?\n\nI help connect messaging, ads, landing pages, funnels and email with the launch tech and automations. Happy to share a relevant portfolio example and hear what you're planning if useful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Named creator account: community byline and public Owned listing verify ownership. Team handling is not stated; direct-message access without membership is unverified. No joining, paying or messaging performed."
+    },
+    {
+      "name": "Aprille Franks",
+      "region": "US",
+      "location": "Charlotte, North Carolina, United States (public Skool creator profile)",
+      "niche": "Business · marketing · content coaching",
+      "source": "https://www.skool.com/school-of-content-marketing-5537/about",
+      "offer": "School of Content Marketing: $148/month paid content and business marketing education membership.",
+      "reason": "Verified business · marketing · content coaching offer fits Preet's digital-course launches and US coach VSL/virtual-event campaigns; potential support: a membership webinar funnel and email nurture. Branded account uses Master Coach Aprille; public profile and official programme pages identify Aprille Franks. Cross-platform overlap: LinkedIn and Instagram in this batch. These are complementary routes to a verified monetised offer; choose one channel and check tracking before outreach.",
+      "scoutedAt": "2026-10-12",
+      "checkedAt": "2026-10-12T09:09:41.544Z",
+      "evidenceSources": [
+        "https://www.linkedin.com/in/mastercoachaprille",
+        "https://www.skool.com/@aprille-franks-1830",
+        "https://www.skool.com/school-of-content-marketing-5537/about",
+        "https://www.thelifecoachschool.com/podcasts/the-life-coach-school-podcast-2/episodes/2148779703"
+      ],
+      "id": "skool-aprille-franks-1830",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@aprille-franks-1830",
+      "community": "School of Content Marketing",
+      "message": "Hey Aprille, hope you're doing well. Your School of Content Marketing supports entrepreneurs with live training and practical content frameworks.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience supporting digital-course launches and US coach VSL/virtual-event campaigns. Would support with a membership webinar funnel and email nurture be useful for this offer?\n\nI help connect messaging, ads, landing pages, funnels and email with the launch tech and automations. Happy to share a relevant portfolio example and hear what you're planning if useful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Named creator account: community byline and public Owned listing verify ownership. Team handling is not stated; direct-message access without membership is unverified. No joining, paying or messaging performed."
+    },
+    {
+      "name": "Nicole Moore",
+      "region": "US",
+      "location": "Beverly Hills, California, United States (public LinkedIn profile)",
+      "niche": "Relationships · communication · women's personal development",
+      "source": "https://www.skool.com/securewomanclub/about",
+      "offer": "Secure Woman Club: $18/month paid membership with relationship audio learning, communication resources and an AI coaching tool.",
+      "reason": "Verified relationships · communication · women's personal development offer fits Preet's women leadership programme and digital-course launches; potential support: membership landing pages and email onboarding. Membership ownership is verified under Owned. The AI tool is part of her offer; Preet is not represented as an AI or relationship specialist.",
+      "scoutedAt": "2026-10-12",
+      "checkedAt": "2026-10-12T09:09:41.544Z",
+      "evidenceSources": [
+        "https://www.skool.com/@nicole-moore-4543",
+        "https://www.skool.com/securewomanclub/about",
+        "https://www.linkedin.com/in/nicolemoorelove",
+        "https://loveworksmethod.com/"
+      ],
+      "id": "skool-nicole-moore-4543",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@nicole-moore-4543",
+      "community": "Secure Woman Club",
+      "message": "Hey Nicole, hope you're doing well. Secure Woman Club offers women ongoing relationship learning and communication resources.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience supporting women leadership programme and digital-course launches. Would support with membership landing pages and email onboarding be useful for this offer?\n\nI help connect messaging, ads, landing pages, funnels and email with the launch tech and automations. Happy to share a relevant portfolio example and hear what you're planning if useful—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Named creator account: community byline and public Owned listing verify ownership. Team handling is not stated; direct-message access without membership is unverified. No joining, paying or messaging performed."
     }
   ]
 }
