@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T09:13:10.375Z",
+  "updatedAt": "2026-10-13T09:07:57Z",
   "prospects": [
     {
       "id": "ig-parentprospercoaching",
@@ -1664,8 +1664,241 @@
       "status": "To contact",
       "notes": "",
       "followUp": ""
+    },
+    {
+      "id": "ig-coachadrienneweimer",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/coachadrienneweimer/",
+      "handle": "@coachadrienneweimer",
+      "name": "Adrienne Weimer",
+      "region": "US",
+      "location": "Denver, Colorado, United States",
+      "niche": "Business · sales · content coaching",
+      "source": "https://www.adrienneweimer.com/influencersoflinkedin",
+      "offer": "[In]fluencers of LinkedIn: paid four-month group programme for coaches, consultants and founders.",
+      "reason": "Complementary workshop landing pages and email follow-up fit her organic LinkedIn approach. Her programme is paid; Denver is confirmed by her official biography and LinkedIn. Cross-platform overlap: LinkedIn added this run; choose one channel before outreach.",
+      "scoutedAt": "2026-10-13",
+      "checkedAt": "2026-10-13T09:07:57Z",
+      "evidenceSources": [
+        "https://www.adrienneweimer.com/influencersoflinkedin",
+        "https://www.linkedin.com/in/coachadrienneweimer/"
+      ],
+      "message": "Hey Adrienne, hope you're doing well. Your [In]fluencers of LinkedIn programme brings content positioning and sales conversations together for coaches and consultants.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience in digital-course launches and US coach virtual-event campaigns. Would support with workshop registration pages and email follow-up be useful? I help with messaging, Meta ads, funnels, email and launch tech too. Happy to share a relevant example and hear what you're planning—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "ig-thetashabooth",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/thetashabooth/",
+      "handle": "@thetashabooth",
+      "name": "Tasha Booth",
+      "region": "US",
+      "location": "Albuquerque, New Mexico, United States",
+      "niche": "Business · agency-owner coaching",
+      "source": "https://www.tashabooth.com/coaching",
+      "offer": "Paid six-month private business coaching for established women service providers, coaches and course creators.",
+      "reason": "Verified coaching offer qualifies separately from her launch agency. Potential partnership: campaign and email execution for coaching enrolment. The page still references Q3 2025 intake; confirm current availability. LinkedIn identifies Albuquerque. Cross-platform overlap: LinkedIn added this run; choose one channel before outreach.",
+      "scoutedAt": "2026-10-13",
+      "checkedAt": "2026-10-13T09:07:57Z",
+      "evidenceSources": [
+        "https://www.tashabooth.com/coaching",
+        "https://www.linkedin.com/in/thelaunchguild/"
+      ],
+      "message": "Hey Tasha, hope you're doing well. Your private coaching supports established women business owners with practical next steps and ADHD-friendly systems.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience in digital-course launches and US coach VSL/virtual-event campaigns. Would support with campaign landing pages and enrolment emails be useful? I help with messaging, Meta ads, funnels, email and launch tech too. Happy to share a relevant example and hear what you're planning—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "ig-brandimowles",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/brandimowles/",
+      "handle": "@brandimowles",
+      "name": "Brandi Mowles",
+      "region": "US",
+      "location": "Canton, Georgia, United States",
+      "niche": "Marketing · business coaching",
+      "source": "https://brandimowles.com/",
+      "offer": "Conversions For Clients and The Strategist Society: paid education and coaching for freelance ad managers.",
+      "reason": "Education/coaching qualifies independently of her marketing services. Offer launch and campaign implementation could complement her teaching. Official participation terms confirm paid programmes; LinkedIn confirms Canton. Cross-platform overlap: LinkedIn added this run; choose one channel before outreach.",
+      "scoutedAt": "2026-10-13",
+      "checkedAt": "2026-10-13T09:07:57Z",
+      "evidenceSources": [
+        "https://brandimowles.com/",
+        "https://www.linkedin.com/in/brandi-mowles/",
+        "https://brandimowles.com/terms"
+      ],
+      "message": "Hey Brandi, hope you're doing well. Conversions For Clients and The Strategist Society support ad managers at different stages of building their businesses.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience in digital-course launches and US coach virtual-event campaigns. Would support with virtual-event funnels and launch email execution be useful? I help with messaging, Meta ads, funnels, email and launch tech too. Happy to share a relevant example and hear what you're planning—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "ig-tntdivalution",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/tntdivalution/",
+      "handle": "@tntdivalution",
+      "name": "Tiffany Noel Taylor",
+      "region": "US",
+      "location": "Toledo, Ohio, United States; Skool profile lists Midwest, USA",
+      "niche": "Business · sales · marketing coaching",
+      "source": "https://tntdivalution.com/",
+      "offer": "BYOB paid business-coaching community for women, with weekly coaching and offer support.",
+      "reason": "Her membership and mastermind create potential enrolment and onboarding work. Official site confirms paid BYOB; Skool ownership and US geography are verified. Public Skool price displays conflict; confirm current billing before quoting a price. Cross-platform overlap: LinkedIn added this run; choose one channel before outreach.",
+      "scoutedAt": "2026-10-13",
+      "checkedAt": "2026-10-13T09:07:57Z",
+      "evidenceSources": [
+        "https://tntdivalution.com/",
+        "https://www.linkedin.com/in/tntdivalution/"
+      ],
+      "message": "Hey Tiffany, hope you're doing well. BYOB combines weekly coaching and offer support for women building a business around their expertise.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience in women leadership programme launches and US coach virtual-event campaigns. Would support with membership onboarding emails and virtual-event pages be useful? I help with messaging, Meta ads, funnels, email and launch tech too. Happy to share a relevant example and hear what you're planning—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "ig-xoxoserenahicks",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/xoxoserenahicks/",
+      "handle": "@xoxoserenahicks",
+      "name": "Serena Hicks",
+      "region": "US",
+      "location": "Dallas, Texas, United States (Skool profile); LinkedIn lists United States",
+      "niche": "Business · mindset · sales coaching",
+      "source": "https://www.serenahicks.com/workwithme",
+      "offer": "Private business coaching; free Skool community also advertises paid trainings.",
+      "reason": "Paid private coaching is verified separately from the free community. Email nurture and event implementation can complement her positioning. July 2026 Consultation Camp is historical and is not represented as an upcoming intake. Cross-platform overlap: LinkedIn added this run; choose one channel before outreach.",
+      "scoutedAt": "2026-10-13",
+      "checkedAt": "2026-10-13T09:07:57Z",
+      "evidenceSources": [
+        "https://www.serenahicks.com/workwithme",
+        "https://www.linkedin.com/in/xoxoserenahicks/"
+      ],
+      "message": "Hey Serena, hope you're doing well. Your business coaching helps coaches and consultants recognise and monetise their expertise.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience in US coach VSL/virtual-event campaigns and digital-course launches. Would support with email nurture and virtual-event implementation be useful? I help with messaging, Meta ads, funnels, email and launch tech too. Happy to share a relevant example and hear what you're planning—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "ig-lisahugoofficial",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/lisahugoofficial/",
+      "handle": "@lisahugoofficial",
+      "name": "Lisa Hugo",
+      "region": "Dubai",
+      "location": "Dubai, United Arab Emirates",
+      "niche": "Communication · executive presence · speaking",
+      "source": "https://lisa-hugo.com/speak-to-impact-community",
+      "offer": "Speak To Impact paid membership, with live coaching and voice/public-speaking training.",
+      "reason": "Verified paid membership and Dubai-based communication coaching fit Preet's leadership launch experience. She also runs marketing services; approach for membership campaign or execution support. Confirm checkout terms before quoting prices. Cross-platform overlap: LinkedIn added this run; choose one channel before outreach.",
+      "scoutedAt": "2026-10-13",
+      "checkedAt": "2026-10-13T09:07:57Z",
+      "evidenceSources": [
+        "https://lisa-hugo.com/speak-to-impact-community",
+        "https://www.linkedin.com/in/lisa-hugo/",
+        "https://lisahugo.com/training",
+        "https://podimo.com/no/shows/impact-through-voice"
+      ],
+      "message": "Hey Lisa, hope you're doing well. Speak To Impact pairs live coaching with voice and public-speaking training for leaders.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience in women leadership programme launches and US coach virtual-event campaigns. Would support with membership email onboarding and virtual-event pages be useful? I help with messaging, Meta ads, funnels, email and launch tech too. Happy to share a relevant example and hear what you're planning—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "ig-dietitiansuzan",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/dietitiansuzan/",
+      "handle": "@dietitiansuzan",
+      "name": "Suzan Trabulsi",
+      "region": "Dubai",
+      "location": "Dubai, United Arab Emirates",
+      "niche": "Women's wellness · nutrition education",
+      "source": "https://bedayamena.com/programs/inner-glow-up",
+      "offer": "Co-facilitator of The Inner Glow-Up, a paid eight-week women's programme with coaching and digital resources.",
+      "reason": "Official programme identifies Suzan as nutrition co-facilitator and publishes a paid investment. LinkedIn and her linked clinic confirm Dubai. This is a joint programme with Nour Bachir, already in LinkedIn; coordinate one enquiry with the programme decision-maker. Cross-platform overlap: LinkedIn added this run; choose one channel before outreach.",
+      "scoutedAt": "2026-10-13",
+      "checkedAt": "2026-10-13T09:07:57Z",
+      "evidenceSources": [
+        "https://bedayamena.com/programs/inner-glow-up",
+        "https://www.linkedin.com/in/suzan-trabulsi/",
+        "https://linktr.ee/suzantrabulsi"
+      ],
+      "message": "Hey Suzan, hope you're doing well. The Inner Glow-Up combines nutrition and mindset support in an eight-week programme for women.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience in women leadership programme and digital-course launches. Would support with programme landing pages and enrolment emails be useful? I help with messaging, Meta ads, funnels, email and launch tech too. Happy to share a relevant example and hear what you're planning—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "ig-libbysalord_coach",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/libbysalord_coach/",
+      "handle": "@libbysalord_coach",
+      "name": "Libby Salord McLean",
+      "region": "Dubai",
+      "location": "Dubai, United Arab Emirates",
+      "niche": "Women's wellness · resilience · motherhood",
+      "source": "https://www.libbysalord.com/wellnesscoaching",
+      "offer": "Paid online resilience and EFT coaching packages for women and mothers.",
+      "reason": "Official page verifies paid online packages and Dubai delivery; LinkedIn identifies the coach and Instagram handle. Clear consultation pages and follow-up emails fit Preet's parenting and programme launch experience. Public package details differ between indexed versions; confirm current terms. Cross-platform overlap: LinkedIn added this run; choose one channel before outreach.",
+      "scoutedAt": "2026-10-13",
+      "checkedAt": "2026-10-13T09:07:57Z",
+      "evidenceSources": [
+        "https://www.libbysalord.com/wellnesscoaching",
+        "https://www.linkedin.com/in/libby-salord-mclean-b7a50965/"
+      ],
+      "message": "Hey Libby, hope you're doing well. Your resilience and EFT coaching offers women and mothers ongoing support beyond a single session.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience in parenting programme and women leadership launches. Would support with consultation funnels and email follow-up be useful? I help with messaging, Meta ads, funnels, email and launch tech too. Happy to share a relevant example and hear what you're planning—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "ig-nourbachir_",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/nourbachir_/",
+      "handle": "@nourbachir_",
+      "name": "Nour Bachir",
+      "region": "Dubai",
+      "location": "Dubai, United Arab Emirates",
+      "niche": "Mindset · women's personal development",
+      "source": "https://bedayamena.com/coaching",
+      "offer": "Beyond The Title: paid 12-week private coaching programme.",
+      "reason": "Official page verifies programme payments and the exact Instagram handle; LinkedIn and Bedaya verify Dubai. Already in LinkedIn. Also co-leads The Inner Glow-Up with Suzan Trabulsi, added this run; coordinate one programme enquiry.",
+      "scoutedAt": "2026-10-13",
+      "checkedAt": "2026-10-13T09:07:57Z",
+      "evidenceSources": [
+        "https://bedayamena.com/coaching"
+      ],
+      "message": "Hey Nour, hope you're doing well. Beyond The Title offers a structured 12-week coaching process for people seeking clarity beyond their professional identity.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience in women leadership programme and US coach virtual-event campaigns. Would support with consultation landing pages and email nurture be useful? I help with messaging, Meta ads, funnels, email and launch tech too. Happy to share a relevant example and hear what you're planning—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
+    },
+    {
+      "id": "ig-marisa_kamall_dxb",
+      "platform": "Instagram",
+      "instagram": "https://www.instagram.com/marisa_kamall_dxb/",
+      "handle": "@marisa_kamall_dxb",
+      "name": "Marisa Kamall",
+      "region": "Dubai",
+      "location": "Dubai, United Arab Emirates",
+      "niche": "Women's leadership · membership",
+      "source": "https://www.gaiarises.com/connect",
+      "offer": "GAIA Connect: paid online and Dubai in-person leadership membership.",
+      "reason": "Official paid membership provides a clear enrolment and onboarding opportunity. AUD's interview confirms her identity and exact Instagram link. Already in LinkedIn; use one outreach channel.",
+      "scoutedAt": "2026-10-13",
+      "checkedAt": "2026-10-13T09:07:57Z",
+      "evidenceSources": [
+        "https://www.gaiarises.com/connect",
+        "https://www.buzzsprout.com/2025926/episodes/18674565-women-in-leadership-from-imposter-syndrome-to-stereotypes-marisa-kamall?t=0"
+      ],
+      "message": "Hey Marisa, hope you're doing well. GAIA Connect brings live masterclasses, peer coaching and Dubai gatherings together for women leaders.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience in women leadership programme launches. Would support with membership email journeys and event registration pages be useful? I help with messaging, Meta ads, funnels, email and launch tech too. Happy to share a relevant example and hear what you're planning—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": ""
     }
   ],
-  "lastRunAt": "2026-10-12T09:13:10.375Z",
-  "summary": "2026-10-12: Added 10 new Instagram records (5 US, 5 Dubai); target reached. Exact handles verified from creator-linked official websites, author biographies, creator podcast links and public profiles; monetised offers and geography verified. Dedicated business, marketing, AI and content searches performed alongside existing niche coverage. Direct Instagram page fetches were blocked, so linked public identity evidence used; no engagement metrics inferred. All 10 overlap LinkedIn records (8 in this batch, Rita/Clare already in feed); high-value monetised education/programme matches retained with explicit one-channel warnings. Existing records preserved; no duplicate Instagram IDs/URLs, follows or DMs."
+  "lastRunAt": "2026-10-13T09:07:57Z",
+  "summary": "2026-10-13: Added 10 verified Instagram profiles: US 5, Dubai 5. No regional shortfall. Dedicated business, marketing, AI and content searches completed. Exact handles verified from official pages and public profiles; platform overlaps and joint-programme contacts flagged. Existing records preserved; no outreach."
 }
