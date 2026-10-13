@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T09:13:19.684Z",
-  "lastRunAt": "2026-10-12T09:13:19.684Z",
+  "updatedAt": "2026-10-13T09:07:57Z",
+  "lastRunAt": "2026-10-13T09:07:57Z",
   "target": {
     "total": 5,
     "US": 3,
     "Dubai": 2
   },
   "recencyDays": 20,
-  "summary": "2026-10-12: Added 0 hiring posts and 0 LinkedIn jobs. Combined target 3 US / 2 Dubai; shortfall US 3, Dubai 2. Searched 20-day window 22 September–12 October for hiring, seeking, looking-for and referral/recommendation requests, plus relevant LinkedIn Jobs at coach/course businesses and agencies. No result passed date, geography, category, explicit demand and availability checks. Original Jordana Ansel request is 3mo old and Canada-local; Sara Getz request is 2mo old. Coach Suchetaa request displayed 5d but India context/geography cannot satisfy US/Dubai scope. Ad Girls job pages could not be fetched to establish current publication/availability, so not added. Service sellers, duplicates, corporate/unrelated and undated results excluded; crawl dates not treated as publication. All previous records preserved; no applications/outreach.",
+  "summary": "2026-10-13: Added 0 hiring posts and 0 LinkedIn jobs. Target US 3 / Dubai 2; shortfall US 3, Dubai 2. Searched hiring, looking-for, seeking, recommendations/referrals, ads, launch/webinar, funnel, email/copywriting and agency support requests, including the 20-day eligibility window 23 September–13 October. No result passed verified publication, geography, coaching/course business category and explicit relevant demand checks. Promotions and unrelated corporate requests excluded. The Ad Girls Lead Strategist search result displayed 3 weeks ago, outside the window; crawl dates not used as posting dates. Existing records preserved; no applications/outreach.",
   "prospects": [
     {
       "id": "job-4457975763",
