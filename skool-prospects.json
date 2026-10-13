@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12T09:13:29.097Z",
-  "lastRunAt": "2026-10-12T09:13:29.097Z",
+  "updatedAt": "2026-10-13T09:07:57Z",
+  "lastRunAt": "2026-10-13T09:07:57Z",
   "target": {
     "total": 5,
     "regions": [
@@ -9,7 +9,7 @@
       "US"
     ]
   },
-  "summary": "2026-10-12: Added 5 new Skool creators (US 5, Dubai 0); target reached without forced regional split. Community bylines and Owned listings verify ownership; original paid offers and public geography verified. Dedicated business, marketing, AI and content queries completed alongside mindset/communication discovery. Krista Smith excluded for Halifax geography; unverified owners/offers not padded. Molly/Sarah/Laura/Aprille overlap other new profile channels; Nicole is distinct. Current Molly creator profile @mollybalint verified, replacing an obsolete byline-link candidate; membership is waitlisted and a separate paid product verified. Price conflicts flagged. All previous records preserved; no joins, payments or outreach.",
+  "summary": "2026-10-13: Added 5 verified US Skool creators; no total shortfall. Ownership, geography and paid offer verified on original profiles/communities or official offer pages. Dedicated business, marketing, AI and content searches completed. Two LinkedIn/Instagram overlaps flagged; no joins, payments or outreach.",
   "prospects": [
     {
       "id": "skool-tina-ghazi-8171",
@@ -764,6 +764,128 @@
       "notes": "",
       "followUp": "",
       "contactNote": "Named creator account: community byline and public Owned listing verify ownership. Team handling is not stated; direct-message access without membership is unverified. No joining, paying or messaging performed."
+    },
+    {
+      "id": "skool-tnt",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@tnt",
+      "community": "BYOB: Bring Your Own Business",
+      "name": "Tiffany Noel Taylor",
+      "region": "US",
+      "location": "Toledo, Ohio, United States; Skool profile lists Midwest, USA",
+      "niche": "Business · sales · marketing coaching",
+      "source": "https://www.skool.com/byob/about",
+      "offer": "BYOB paid business-coaching community for women, with weekly coaching and offer support.",
+      "reason": "Her membership and mastermind create potential enrolment and onboarding work. Official site confirms paid BYOB; Skool ownership and US geography are verified. Public Skool price displays conflict; confirm current billing before quoting a price. Cross-platform overlap: LinkedIn and Instagram added this run. Choose one channel before outreach.",
+      "evidenceSources": [
+        "https://www.skool.com/@tnt",
+        "https://www.skool.com/byob/about",
+        "https://tntdivalution.com/"
+      ],
+      "checkedAt": "2026-10-13T09:07:57Z",
+      "scoutedAt": "2026-10-13",
+      "message": "Hey Tiffany, hope you're doing well. BYOB combines weekly coaching and offer support for women building a business around their expertise.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience in women leadership programme launches and US coach virtual-event campaigns. Would support with membership onboarding emails and virtual-event pages be useful? I help with messaging, Meta ads, funnels, email and launch tech too. Happy to share a relevant example and hear what you're planning—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Named creator account; ownership verified under Owned. Multiple community admins may assist. Messaging access without membership is unverified. No joining or paying."
+    },
+    {
+      "id": "skool-serena",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@serena",
+      "community": "SerenaHicks.com COACHING",
+      "name": "Serena Hicks",
+      "region": "US",
+      "location": "Dallas, Texas, United States (Skool profile); LinkedIn lists United States",
+      "niche": "Business · mindset · sales coaching",
+      "source": "https://www.skool.com/serenahicks/about",
+      "offer": "Private business coaching; free Skool community also advertises paid trainings.",
+      "reason": "Paid private coaching is verified separately from the free community. Email nurture and event implementation can complement her positioning. July 2026 Consultation Camp is historical and is not represented as an upcoming intake. Cross-platform overlap: LinkedIn and Instagram added this run. Choose one channel before outreach.",
+      "evidenceSources": [
+        "https://www.skool.com/@serena",
+        "https://www.skool.com/serenahicks/about",
+        "https://www.serenahicks.com/workwithme"
+      ],
+      "checkedAt": "2026-10-13T09:07:57Z",
+      "scoutedAt": "2026-10-13",
+      "message": "Hey Serena, hope you're doing well. Your business coaching helps coaches and consultants recognise and monetise their expertise.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience in US coach VSL/virtual-event campaigns and digital-course launches. Would support with email nurture and virtual-event implementation be useful? I help with messaging, Meta ads, funnels, email and launch tech too. Happy to share a relevant example and hear what you're planning—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Named creator account; ownership verified under Owned. Multiple community admins may assist. Messaging access without membership is unverified. No joining or paying."
+    },
+    {
+      "id": "skool-faye-ellis-2238",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@faye-ellis-2238",
+      "community": "90 Day Author Academy",
+      "name": "Faye Ellis",
+      "region": "US",
+      "location": "United States (public Skool profile)",
+      "niche": "Writing · content creation · women's confidence",
+      "source": "https://www.skool.com/90-day-authors-2966/about",
+      "offer": "Paid $197/month writing and publishing academy with private and group coaching.",
+      "reason": "Verified ownership, US geography and paid coaching. A writing workshop and email sequence could connect prospective authors with the academy.",
+      "evidenceSources": [
+        "https://www.skool.com/@faye-ellis-2238",
+        "https://www.skool.com/90-day-authors-2966/about"
+      ],
+      "checkedAt": "2026-10-13T09:07:57Z",
+      "scoutedAt": "2026-10-13",
+      "message": "Hey Faye, hope you're doing well. Your 90 Day Author Academy combines writing support with private and group coaching for women authors.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience in digital-course launches and US coach virtual-event campaigns. Would support with writing-workshop pages and email nurture be useful? I help with messaging, Meta ads, funnels, email and launch tech too. Happy to share a relevant example and hear what you're planning—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Named creator account; ownership verified under Owned and community byline. Team handling not stated. Messaging access without membership is unverified; no joining or paying."
+    },
+    {
+      "id": "skool-nadia",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@nadia",
+      "community": "Plant-Powered Kitchen Club",
+      "name": "Nadia Quraishi",
+      "region": "US",
+      "location": "New Jersey, United States",
+      "niche": "Women's wellness · nutrition education",
+      "source": "https://www.skool.com/nadia/about",
+      "offer": "Paid Plant-Powered Kitchen Club with live workshops and a recipe library for women over 40.",
+      "reason": "Original profile verifies New Jersey and ownership; community verifies paid access. Educational event registration and onboarding fit Preet's course launch work. Current original page shows a one-time offer; older indexed monthly rates are not used.",
+      "evidenceSources": [
+        "https://www.skool.com/@nadia",
+        "https://www.skool.com/nadia/about"
+      ],
+      "checkedAt": "2026-10-13T09:07:57Z",
+      "scoutedAt": "2026-10-13",
+      "message": "Hey Nadia, hope you're doing well. Plant-Powered Kitchen Club offers women over 40 live workshops and practical kitchen resources.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience in digital-course and women leadership programme launches. Would support with workshop registration pages and onboarding emails be useful? I help with messaging, Meta ads, funnels, email and launch tech too. Happy to share a relevant example and hear what you're planning—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Named creator account; ownership verified under Owned and community byline. Team handling not stated. Messaging access without membership is unverified; no joining or paying."
+    },
+    {
+      "id": "skool-rafaela-moreno-8074",
+      "platform": "Skool",
+      "skool": "https://www.skool.com/@rafaela-moreno-8074",
+      "community": "Regulate with Face Yoga",
+      "name": "Rafaela Moreno",
+      "region": "US",
+      "location": "Texas, United States",
+      "niche": "Women's wellness · face yoga",
+      "source": "https://www.skool.com/glow-rewire-academy-1581/about",
+      "offer": "Paid $49/month face-yoga and wellness coaching community.",
+      "reason": "Original profile verifies Texas and community ownership; about page verifies paid coaching. Course-to-membership pages and email onboarding could support the offer. Older Facenergy branding and rates differ; current original community used.",
+      "evidenceSources": [
+        "https://www.skool.com/@rafaela-moreno-8074",
+        "https://www.skool.com/glow-rewire-academy-1581/about"
+      ],
+      "checkedAt": "2026-10-13T09:07:57Z",
+      "scoutedAt": "2026-10-13",
+      "message": "Hey Rafaela, hope you're doing well. Regulate with Face Yoga combines face-yoga practice with coaching for women experiencing burnout.\n\nI'm Preet, a launch and ads specialist for coaches and course creators, with experience in digital-course and women leadership programme launches. Would support with membership landing pages and onboarding emails be useful? I help with messaging, Meta ads, funnels, email and launch tech too. Happy to share a relevant example and hear what you're planning—no pressure.",
+      "status": "To contact",
+      "notes": "",
+      "followUp": "",
+      "contactNote": "Named creator account; ownership verified under Owned and community byline. Team handling not stated. Messaging access without membership is unverified; no joining or paying."
     }
   ]
 }
